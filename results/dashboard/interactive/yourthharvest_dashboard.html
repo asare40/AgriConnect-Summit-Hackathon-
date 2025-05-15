@@ -1,0 +1,489 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouthHarvest: Post-Harvest Loss Intervention Dashboard</title>
+    <style>
+        :root {
+            --primary: #2e7d32;
+            --primary-light: #60ad5e;
+            --primary-dark: #005005;
+            --secondary: #ff8f00;
+            --text-light: #ffffff;
+            --text-dark: #212121;
+            --background-light: #f5f5f5;
+            --background-card: #ffffff;
+            --border-radius: 8px;
+            --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--background-light);
+            color: var(--text-dark);
+            line-height: 1.6;
+        }
+        
+        header {
+            background-color: var(--primary);
+            color: var(--text-light);
+            padding: 1rem 2rem;
+            box-shadow: var(--shadow);
+        }
+        
+        .logo-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .logo-text {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+        
+        .logo-text span {
+            color: var(--secondary);
+        }
+        
+        .main-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 1.5rem;
+        }
+        
+        .dashboard-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+        
+        .filters {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+        
+        .filter-select {
+            padding: 0.5rem;
+            border-radius: var(--border-radius);
+            border: 1px solid #ddd;
+            background-color: var(--background-card);
+        }
+        
+        .kpi-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .kpi-card {
+            background-color: var(--background-card);
+            border-radius: var(--border-radius);
+            padding: 1.5rem;
+            box-shadow: var(--shadow);
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+        
+        .kpi-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .kpi-title {
+            color: var(--text-dark);
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+            opacity: 0.8;
+        }
+        
+        .kpi-value {
+            color: var(--primary-dark);
+            font-size: 1.8rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+        
+        .kpi-context {
+            color: var(--text-dark);
+            font-size: 0.8rem;
+            opacity: 0.6;
+        }
+        
+        .chart-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .chart-card {
+            background-color: var(--background-card);
+            border-radius: var(--border-radius);
+            padding: 1.5rem;
+            box-shadow: var(--shadow);
+        }
+        
+        .chart-title {
+            margin-top: 0;
+            margin-bottom: 1rem;
+            color: var(--primary-dark);
+        }
+        
+        .chart-image {
+            width: 100%;
+            height: auto;
+            object-fit: contain;
+        }
+        
+        .opportunities-section {
+            margin-top: 2rem;
+        }
+        
+        .opportunity-card {
+            background-color: var(--background-card);
+            border-radius: var(--border-radius);
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            box-shadow: var(--shadow);
+            border-left: 5px solid var(--primary);
+        }
+        
+        .opportunity-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        
+        .opportunity-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: var(--primary-dark);
+            margin: 0;
+        }
+        
+        .opportunity-value {
+            background-color: var(--primary-light);
+            color: var(--text-light);
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-weight: bold;
+        }
+        
+        .opportunity-details {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+        
+        .detail-item {
+            margin-bottom: 0.5rem;
+        }
+        
+        .detail-label {
+            font-size: 0.8rem;
+            color: var(--text-dark);
+            opacity: 0.7;
+        }
+        
+        .detail-value {
+            font-size: 1rem;
+            font-weight: 500;
+        }
+        
+        .action-button {
+            background-color: var(--secondary);
+            color: var(--text-light);
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        
+        .action-button:hover {
+            background-color: #f57c00;
+        }
+        
+        footer {
+            background-color: var(--primary-dark);
+            color: var(--text-light);
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+            font-size: 0.8rem;
+        }
+        
+        @media screen and (max-width: 768px) {
+            .chart-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .dashboard-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            .filters {
+                margin-top: 1rem;
+                width: 100%;
+            }
+            
+            .filter-select {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <div class="logo-text">Youth<span>Harvest</span> Dashboard</div>
+            <div>Nigeria Post-Harvest Loss Intervention Project</div>
+        </div>
+    </header>
+
+    <div class="main-container">
+        <div class="dashboard-header">
+            <h1>Post-Harvest Loss Business Opportunity Finder</h1>
+            <div class="filters">
+                <select id="region-filter" class="filter-select">
+                    <option value="all">All Regions</option>
+                    <option value="North Central">North Central</option>
+                    <option value="North East">North East</option>
+                    <option value="North West">North West</option>
+                    <option value="South East">South East</option>
+                    <option value="South South">South South</option>
+                    <option value="South West">South West</option>
+                </select>
+                <select id="crop-filter" class="filter-select">
+                    <option value="all">All Crops</option>
+                    <option value="Maize">Maize</option>
+                    <option value="Rice">Rice</option>
+                    <option value="Sorghum">Sorghum</option>
+                    <option value="Millet">Millet</option>
+                    <option value="Vegetables">Vegetables</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="kpi-container">
+            <div class="kpi-card">
+                <div class="kpi-title">Total Production</div>
+                <div class="kpi-value">13.8M tons</div>
+                <div class="kpi-context">Across major grain crops</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-title">Post-Harvest Losses</div>
+                <div class="kpi-value">3.9M tons</div>
+                <div class="kpi-context">~28% of production</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-title">Financial Impact</div>
+                <div class="kpi-value">N14.2B</div>
+                <div class="kpi-context">Annual loss value</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-title">Intervention Potential</div>
+                <div class="kpi-value">N6.8B</div>
+                <div class="kpi-context">Addressable through youth businesses</div>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <div class="chart-card">
+                <h3 class="chart-title">Intervention Value by State</h3>
+                <img src="static/intervention_value_by_state.png" alt="Intervention Value by State" class="chart-image">
+            </div>
+            <div class="chart-card">
+                <h3 class="chart-title">Value Chain Stage Analysis</h3>
+                <img src="static/value_chain_analysis.png" alt="Value Chain Analysis" class="chart-image">
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <div class="chart-card">
+                <h3 class="chart-title">Crop Comparison</h3>
+                <img src="static/crop_comparison.png" alt="Crop Comparison" class="chart-image">
+            </div>
+            <div class="chart-card">
+                <h3 class="chart-title">Top Business Opportunities by Region</h3>
+                <img src="static/top_opportunities_by_zone.png" alt="Top Opportunities by Zone" class="chart-image">
+            </div>
+        </div>
+
+        <div class="opportunities-section">
+            <h2>Top Business Opportunities for Youth Entrepreneurs</h2>
+            
+            <div class="opportunity-card">
+                <div class="opportunity-header">
+                    <h3 class="opportunity-title">BM-02: Aggregation &amp; Quality Control Hub</h3>
+                    <div class="opportunity-value">N2.5B Opportunity</div>
+                </div>
+                <div class="opportunity-details">
+                    <div>
+                        <div class="detail-item">
+                            <div class="detail-label">Initial Investment</div>
+                            <div class="detail-value">N1,785,000 - N4,020,000</div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-label">Annual ROI</div>
+                            <div class="detail-value">20-30%</div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="detail-item">
+                            <div class="detail-label">Impact</div>
+                            <div class="detail-value">20-30% reduction in losses</div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-label">Best Crops</div>
+                            <div class="detail-value">Rice, Maize, Sorghum</div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="detail-item">
+                            <div class="detail-label">Key Regions</div>
+                            <div class="detail-value">North West, North Central</div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-label">Value Chain Stage</div>
+                            <div class="detail-value">Storage, Market</div>
+                        </div>
+                    </div>
+                </div>
+                <div style="margin-top: 1rem; text-align: right;">
+                    <button class="action-button">View Implementation Guide</button>
+                </div>
+            </div>
+
+            <div class="opportunity-card">
+                <div class="opportunity-header">
+                    <h3 class="opportunity-title">BM-01: Mobile Threshing/Shelling Service</h3>
+                    <div class="opportunity-value">N1.8B Opportunity</div>
+                </div>
+                <div class="opportunity-details">
+                    <div>
+                        <div class="detail-item">
+                            <div class="detail-label">Initial Investment</div>
+                            <div class="detail-value">N955,000 - N1,625,000</div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-label">Annual ROI</div>
+                            <div class="detail-value">15-30%</div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="detail-item">
+                            <div class="detail-label">Impact</div>
+                            <div class="detail-value">15-20% reduction in processing losses</div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-label">Best Crops</div>
+                            <div class="detail-value">Rice, Maize, Sorghum</div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="detail-item">
+                            <div class="detail-label">Key Regions</div>
+                            <div class="detail-value">North West, North East</div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-label">Value Chain Stage</div>
+                            <div class="detail-value">Processing, Harvesting</div>
+                        </div>
+                    </div>
+                </div>
+                <div style="margin-top: 1rem; text-align: right;">
+                    <button class="action-button">View Implementation Guide</button>
+                </div>
+            </div>
+
+            <div class="opportunity-card">
+                <div class="opportunity-header">
+                    <h3 class="opportunity-title">BM-03: Solar Drying as a Service</h3>
+                    <div class="opportunity-value">N1.2B Opportunity</div>
+                </div>
+                <div class="opportunity-details">
+                    <div>
+                        <div class="detail-item">
+                            <div class="detail-label">Initial Investment</div>
+                            <div class="detail-value">N720,000 - N2,080,000</div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-label">Annual ROI</div>
+                            <div class="detail-value">40-60%</div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="detail-item">
+                            <div class="detail-label">Impact</div>
+                            <div class="detail-value">25-35% reduction in processing losses</div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-label">Best Crops</div>
+                            <div class="detail-value">Vegetables, Rice, Maize</div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="detail-item">
+                            <div class="detail-label">Key Regions</div>
+                            <div class="detail-value">South West, South South, North Central</div>
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-label">Value Chain Stage</div>
+                            <div class="detail-value">Processing</div>
+                        </div>
+                    </div>
+                </div>
+                <div style="margin-top: 1rem; text-align: right;">
+                    <button class="action-button">View Implementation Guide</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>YouthHarvest Dashboard | Nigeria Post-Harvest Losses Analysis Project | Developed for the Nigeria Agri-Hackathon</p>
+    </footer>
+
+    <script>
+        // This would be expanded with interactive features in a real implementation
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('Dashboard loaded successfully');
+            
+            // Filter functionality would be implemented here
+            const regionFilter = document.getElementById('region-filter');
+            const cropFilter = document.getElementById('crop-filter');
+            
+            regionFilter.addEventListener('change', function() {
+                console.log('Region filter changed to:', this.value);
+                // In a real implementation, this would update the dashboard data
+            });
+            
+            cropFilter.addEventListener('change', function() {
+                console.log('Crop filter changed to:', this.value);
+                // In a real implementation, this would update the dashboard data
+            });
+            
+            // Action buttons would link to implementation guides
+            const actionButtons = document.querySelectorAll('.action-button');
+            actionButtons.forEach(button => {
+                button.addEventListener('click', function() {
+                    const businessModel = this.closest('.opportunity-card').querySelector('.opportunity-title').textContent.split(':')[0].trim();
+                    console.log('Viewing implementation guide for:', businessModel);
+                    alert('In the full implementation, this would load the detailed business implementation guide for ' + businessModel);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

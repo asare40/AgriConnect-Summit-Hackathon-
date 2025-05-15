@@ -1,0 +1,182 @@
+{
+  "title": "Business Models for Post-Harvest Loss Interventions",
+  "prepared_by": "Business Development Team",
+  "date": "2025-05-12 16:50:48",
+  "service_based_models": {
+    "equipment_as_service": {
+      "description": "Entrepreneurs provide post-harvest services to farmers using improved equipment",
+      "applicable_technologies": [
+        "Threshers",
+        "Shellers",
+        "Dryers",
+        "Mills"
+      ],
+      "revenue_model": "Fee per kilogram or per batch processed",
+      "typical_fees": {
+        "Threshing/Shelling": "\u20a615-25 per kg",
+        "Drying": "\u20a620-40 per kg",
+        "Milling": "\u20a630-50 per kg"
+      },
+      "startup_requirements": {
+        "capital": "\u20a6500,000-2,000,000",
+        "skills": "Equipment operation, basic maintenance, customer service",
+        "support_needed": "Initial training, equipment financing, market linkage"
+      },
+      "potential_earnings": "\u20a6150,000-600,000 per month during peak season",
+      "success_factors": [
+        "Strategic location near production areas",
+        "Quality service delivery",
+        "Regular maintenance",
+        "Strong customer relationships"
+      ]
+    },
+    "storage_as_service": {
+      "description": "Provision of improved storage facilities as a service to farmers",
+      "applicable_technologies": [
+        "Metal silos",
+        "Hermetic cocoons",
+        "Warehouse storage"
+      ],
+      "revenue_model": "Fee per bag per month or season, with quality guarantees",
+      "typical_fees": {
+        "Short-term (1-3 months)": "\u20a6200-300 per bag per month",
+        "Season-long": "\u20a6600-1,000 per bag per season"
+      },
+      "startup_requirements": {
+        "capital": "\u20a62,000,000-10,000,000",
+        "skills": "Storage management, quality assessment, business administration",
+        "support_needed": "Infrastructure financing, technical training, demand aggregation"
+      },
+      "potential_earnings": "\u20a6300,000-1,200,000 per season",
+      "success_factors": [
+        "Trust building with farmers",
+        "Proper quality management systems",
+        "Linkage to financial services",
+        "Insurance partnerships"
+      ]
+    }
+  },
+  "financing_models": {
+    "pay_as_you_go": {
+      "description": "Farmers acquire equipment through incremental payments over time",
+      "applicable_technologies": [
+        "Hermetic bags",
+        "Solar dryers",
+        "Small threshers"
+      ],
+      "structure": "Initial deposit (20-30%) followed by installment payments over 6-12 months",
+      "interest_implications": "15-20% effective interest rate built into pricing",
+      "risk_management": "Remote locking technology for higher-value items, group guarantees",
+      "requirements_for_providers": {
+        "capital": "Significant working capital for inventory",
+        "systems": "Payment tracking, customer relationship management",
+        "partners": "Financial institutions, mobile money providers"
+      },
+      "success_factors": [
+        "Affordable payment terms",
+        "Quality products that generate immediate benefits",
+        "Reliable after-sales service",
+        "Strong customer vetting"
+      ]
+    },
+    "warehouse_receipt_financing": {
+      "description": "Using stored commodities as collateral for loans",
+      "applicable_technologies": [
+        "Commercial warehouses",
+        "Community storage facilities"
+      ],
+      "structure": "Farmers deposit grain in certified warehouse, receive receipt usable as collateral",
+      "typical_terms": {
+        "loan_value": "60-80% of commodity value at time of deposit",
+        "interest_rate": "12-18% annually",
+        "duration": "3-9 months"
+      },
+      "requirements": {
+        "infrastructure": "Certified warehouses with quality management",
+        "systems": "Grading standards, receipt issuance, monitoring",
+        "partners": "Banks, insurance providers, commodity buyers"
+      },
+      "success_factors": [
+        "Strong legal framework",
+        "Price information systems",
+        "Quality standards enforcement",
+        "Multiple participating financial institutions"
+      ]
+    },
+    "asset_leasing": {
+      "description": "Leasing of post-harvest equipment with option to own",
+      "applicable_technologies": [
+        "Mills",
+        "Large threshers",
+        "Mechanical dryers"
+      ],
+      "structure": "Monthly lease payments over 12-36 months with maintenance included",
+      "typical_terms": {
+        "down_payment": "15-30% of equipment value",
+        "monthly_payment": "3-5% of equipment value",
+        "maintenance": "Included in lease",
+        "ownership": "Transfer after full payment or renewal option"
+      },
+      "requirements_for_providers": {
+        "capital": "Significant equipment inventory or supplier financing",
+        "systems": "Asset tracking, maintenance management, payment collection",
+        "partners": "Equipment suppliers, insurance providers, technical services"
+      },
+      "success_factors": [
+        "Quality equipment with proven ROI",
+        "Responsive maintenance service",
+        "Flexible terms during low seasons",
+        "Training for operators"
+      ]
+    }
+  },
+  "aggregation_models": {
+    "farmer_cooperatives": {
+      "description": "Farmer-owned collectives that jointly invest in post-harvest infrastructure",
+      "applicable_technologies": [
+        "All types at community scale"
+      ],
+      "structure": "Member contributions, shared ownership, usage fees or dividends",
+      "governance": "Elected management committee, clear usage policies, transparent accounting",
+      "typical_arrangements": {
+        "membership_fee": "\u20a65,000-20,000 one-time or annual",
+        "contribution_model": "Equal shares or production-based shares",
+        "service_fees": "Discounted for members vs. non-members"
+      },
+      "support_requirements": {
+        "technical": "Governance training, business management, technology operation",
+        "financial": "Matching grants, startup subsidies, linkage to formal finance",
+        "partners": "NGOs, government extension, equipment suppliers"
+      },
+      "success_factors": [
+        "Strong governance structures",
+        "Clear member value proposition",
+        "Professional management",
+        "Linkage to reliable markets"
+      ]
+    },
+    "outgrower_processor_models": {
+      "description": "Processors provide post-harvest technologies to contracted farmers",
+      "applicable_technologies": [
+        "Drying, storage, and handling technologies"
+      ],
+      "structure": "Processor invests in technologies, farmers access as part of supply contract",
+      "typical_arrangements": {
+        "contract_terms": "Guaranteed purchase at fixed or formula price",
+        "technology_access": "Free or subsidized access to processor-owned equipment",
+        "quality_incentives": "Price premiums for meeting quality standards"
+      },
+      "requirements_for_processors": {
+        "capital": "Significant investment in technologies and extension",
+        "systems": "Quality control, farmer management, logistics coordination",
+        "partners": "Financial institutions, technology providers, development programs"
+      },
+      "success_factors": [
+        "Fair and transparent pricing",
+        "Consistent procurement",
+        "Effective extension support",
+        "Balance of power in relationship"
+      ]
+    }
+  }
+}

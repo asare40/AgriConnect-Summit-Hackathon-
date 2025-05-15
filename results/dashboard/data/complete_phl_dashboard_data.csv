@@ -1,0 +1,926 @@
+state,geopolitical_zone,crop,production_tons,phl_rate,value_chain_stage,loss_tons,financial_impact,intervention_potential_tons,intervention_value,applicable_business_models
+Benue,North Central,Maize,911.8,33.2,Harvesting,45.5,10459552.0,28.2,6480719.0,"['BM-01', 'BM-06']"
+Benue,North Central,Maize,911.8,33.2,Processing,75.8,17432587.0,43.9,10103884.0,"['BM-01', 'BM-03']"
+Benue,North Central,Maize,911.8,33.2,Storage,106.1,24405621.0,47.4,10904568.0,"['BM-02', 'BM-05']"
+Benue,North Central,Maize,911.8,33.2,Transportation,60.6,13946069.0,27.1,6231081.0,['BM-04']
+Benue,North Central,Maize,911.8,33.2,Market,15.2,3486517.0,6.3,1455360.0,"['BM-02', 'BM-07']"
+Benue,North Central,Rice,894.2,35.7,Harvesting,47.9,31133306.0,29.3,19066715.0,"['BM-01', 'BM-06']"
+Benue,North Central,Rice,894.2,35.7,Processing,79.8,51888844.0,32.4,21075969.0,"['BM-01', 'BM-03']"
+Benue,North Central,Rice,894.2,35.7,Storage,111.8,72644381.0,77.2,50195303.0,"['BM-02', 'BM-05']"
+Benue,North Central,Rice,894.2,35.7,Transportation,63.9,41511075.0,41.5,26971107.0,['BM-04']
+Benue,North Central,Rice,894.2,35.7,Market,16.0,10377769.0,7.4,4812189.0,"['BM-02', 'BM-07']"
+Benue,North Central,Sorghum,392.7,24.2,Harvesting,14.2,2847246.0,7.0,1398774.0,"['BM-01', 'BM-06']"
+Benue,North Central,Sorghum,392.7,24.2,Processing,23.7,4745411.0,13.2,2645220.0,"['BM-01', 'BM-03']"
+Benue,North Central,Sorghum,392.7,24.2,Storage,33.2,6643575.0,17.6,3518328.0,"['BM-02', 'BM-05']"
+Benue,North Central,Sorghum,392.7,24.2,Transportation,19.0,3796328.0,9.3,1850212.0,['BM-04']
+Benue,North Central,Sorghum,392.7,24.2,Market,4.7,949082.0,2.8,553842.0,"['BM-02', 'BM-07']"
+Benue,North Central,Millet,269.6,21.5,Harvesting,8.7,1562620.0,4.4,796793.0,"['BM-01', 'BM-06']"
+Benue,North Central,Millet,269.6,21.5,Processing,14.5,2604366.0,7.8,1398078.0,"['BM-01', 'BM-03']"
+Benue,North Central,Millet,269.6,21.5,Storage,20.3,3646113.0,12.9,2317297.0,"['BM-02', 'BM-05']"
+Benue,North Central,Millet,269.6,21.5,Transportation,11.6,2083493.0,5.3,958203.0,['BM-04']
+Benue,North Central,Millet,269.6,21.5,Market,2.9,520873.0,1.6,288705.0,"['BM-02', 'BM-07']"
+Benue,North Central,Vegetables,290.4,40.9,Harvesting,17.8,7128345.0,10.4,4150575.0,"['BM-01', 'BM-06']"
+Benue,North Central,Vegetables,290.4,40.9,Processing,29.7,11880575.0,13.4,5360007.0,"['BM-01', 'BM-03']"
+Benue,North Central,Vegetables,290.4,40.9,Storage,41.6,16632804.0,17.4,6977719.0,"['BM-02', 'BM-05']"
+Benue,North Central,Vegetables,290.4,40.9,Transportation,23.8,9504460.0,16.3,6507377.0,['BM-04']
+Benue,North Central,Vegetables,290.4,40.9,Market,5.9,2376115.0,4.1,1638782.0,"['BM-02', 'BM-07']"
+Kogi,North Central,Maize,1078.4,29.3,Harvesting,47.4,10904285.0,20.4,4681227.0,"['BM-01', 'BM-06']"
+Kogi,North Central,Maize,1078.4,29.3,Processing,79.0,18173808.0,47.8,11000059.0,"['BM-01', 'BM-03']"
+Kogi,North Central,Maize,1078.4,29.3,Storage,110.6,25443331.0,58.9,13537016.0,"['BM-02', 'BM-05']"
+Kogi,North Central,Maize,1078.4,29.3,Transportation,63.2,14539047.0,27.6,6347914.0,['BM-04']
+Kogi,North Central,Maize,1078.4,29.3,Market,15.8,3634762.0,8.7,1993860.0,"['BM-02', 'BM-07']"
+Kogi,North Central,Rice,634.7,37.9,Harvesting,36.1,23433322.0,17.2,11192551.0,"['BM-01', 'BM-06']"
+Kogi,North Central,Rice,634.7,37.9,Processing,60.1,39055536.0,36.0,23384763.0,"['BM-01', 'BM-03']"
+Kogi,North Central,Rice,634.7,37.9,Storage,84.1,54677750.0,41.5,26984198.0,"['BM-02', 'BM-05']"
+Kogi,North Central,Rice,634.7,37.9,Transportation,48.1,31244429.0,26.7,17372540.0,['BM-04']
+Kogi,North Central,Rice,634.7,37.9,Market,12.0,7811107.0,6.8,4405567.0,"['BM-02', 'BM-07']"
+Kogi,North Central,Sorghum,393.3,28.2,Harvesting,16.6,3329817.0,10.5,2106242.0,"['BM-01', 'BM-06']"
+Kogi,North Central,Sorghum,393.3,28.2,Processing,27.7,5549694.0,18.9,3784057.0,"['BM-01', 'BM-03']"
+Kogi,North Central,Sorghum,393.3,28.2,Storage,38.8,7769572.0,26.0,5193557.0,"['BM-02', 'BM-05']"
+Kogi,North Central,Sorghum,393.3,28.2,Transportation,22.2,4439756.0,12.9,2572261.0,['BM-04']
+Kogi,North Central,Sorghum,393.3,28.2,Market,5.5,1109939.0,3.8,750943.0,"['BM-02', 'BM-07']"
+Kogi,North Central,Millet,263.2,21.0,Harvesting,8.3,1494761.0,3.4,618186.0,"['BM-01', 'BM-06']"
+Kogi,North Central,Millet,263.2,21.0,Processing,13.8,2491268.0,6.9,1239653.0,"['BM-01', 'BM-03']"
+Kogi,North Central,Millet,263.2,21.0,Storage,19.4,3487776.0,10.0,1801796.0,"['BM-02', 'BM-05']"
+Kogi,North Central,Millet,263.2,21.0,Transportation,11.1,1993015.0,5.3,959447.0,['BM-04']
+Kogi,North Central,Millet,263.2,21.0,Market,2.8,498254.0,1.8,323178.0,"['BM-02', 'BM-07']"
+Kogi,North Central,Vegetables,264.0,43.0,Harvesting,17.0,6814574.0,9.6,3835302.0,"['BM-01', 'BM-06']"
+Kogi,North Central,Vegetables,264.0,43.0,Processing,28.4,11357623.0,12.6,5023219.0,"['BM-01', 'BM-03']"
+Kogi,North Central,Vegetables,264.0,43.0,Storage,39.8,15900672.0,25.5,10186910.0,"['BM-02', 'BM-05']"
+Kogi,North Central,Vegetables,264.0,43.0,Transportation,22.7,9086099.0,9.6,3837652.0,['BM-04']
+Kogi,North Central,Vegetables,264.0,43.0,Market,5.7,2271525.0,4.0,1581131.0,"['BM-02', 'BM-07']"
+Kwara,North Central,Maize,1064.5,28.7,Harvesting,45.8,10526667.0,18.4,4228106.0,"['BM-01', 'BM-06']"
+Kwara,North Central,Maize,1064.5,28.7,Processing,76.3,17544445.0,49.2,11309824.0,"['BM-01', 'BM-03']"
+Kwara,North Central,Maize,1064.5,28.7,Storage,106.8,24562224.0,65.4,15033486.0,"['BM-02', 'BM-05']"
+Kwara,North Central,Maize,1064.5,28.7,Transportation,61.0,14035556.0,37.8,8683829.0,['BM-04']
+Kwara,North Central,Maize,1064.5,28.7,Market,15.3,3508889.0,9.6,2215446.0,"['BM-02', 'BM-07']"
+Kwara,North Central,Rice,647.1,34.0,Harvesting,33.0,21457271.0,14.4,9328779.0,"['BM-01', 'BM-06']"
+Kwara,North Central,Rice,647.1,34.0,Processing,55.0,35762119.0,36.3,23564770.0,"['BM-01', 'BM-03']"
+Kwara,North Central,Rice,647.1,34.0,Storage,77.0,50066967.0,45.2,29388781.0,"['BM-02', 'BM-05']"
+Kwara,North Central,Rice,647.1,34.0,Transportation,44.0,28609695.0,22.0,14283946.0,['BM-04']
+Kwara,North Central,Rice,647.1,34.0,Market,11.0,7152424.0,4.6,2997348.0,"['BM-02', 'BM-07']"
+Kwara,North Central,Sorghum,416.0,24.9,Harvesting,15.5,3107090.0,9.6,1922922.0,"['BM-01', 'BM-06']"
+Kwara,North Central,Sorghum,416.0,24.9,Processing,25.9,5178484.0,15.3,3061868.0,"['BM-01', 'BM-03']"
+Kwara,North Central,Sorghum,416.0,24.9,Storage,36.2,7249878.0,24.1,4829606.0,"['BM-02', 'BM-05']"
+Kwara,North Central,Sorghum,416.0,24.9,Transportation,20.7,4142787.0,11.2,2244001.0,['BM-04']
+Kwara,North Central,Sorghum,416.0,24.9,Market,5.2,1035697.0,2.3,451438.0,"['BM-02', 'BM-07']"
+Kwara,North Central,Millet,341.9,23.6,Harvesting,12.1,2175464.0,6.9,1236497.0,"['BM-01', 'BM-06']"
+Kwara,North Central,Millet,341.9,23.6,Processing,20.1,3625773.0,12.7,2288915.0,"['BM-01', 'BM-03']"
+Kwara,North Central,Millet,341.9,23.6,Storage,28.2,5076082.0,15.5,2782397.0,"['BM-02', 'BM-05']"
+Kwara,North Central,Millet,341.9,23.6,Transportation,16.1,2900618.0,9.0,1615122.0,['BM-04']
+Kwara,North Central,Millet,341.9,23.6,Market,4.0,725155.0,2.1,383072.0,"['BM-02', 'BM-07']"
+Kwara,North Central,Vegetables,226.8,41.5,Harvesting,14.1,5644545.0,5.8,2311039.0,"['BM-01', 'BM-06']"
+Kwara,North Central,Vegetables,226.8,41.5,Processing,23.5,9407575.0,13.9,5559153.0,"['BM-01', 'BM-03']"
+Kwara,North Central,Vegetables,226.8,41.5,Storage,32.9,13170605.0,16.3,6510319.0,"['BM-02', 'BM-05']"
+Kwara,North Central,Vegetables,226.8,41.5,Transportation,18.8,7526060.0,10.4,4158684.0,['BM-04']
+Kwara,North Central,Vegetables,226.8,41.5,Market,4.7,1881515.0,3.2,1264886.0,"['BM-02', 'BM-07']"
+Nasarawa,North Central,Maize,863.7,30.0,Harvesting,38.8,8925682.0,24.3,5593415.0,"['BM-01', 'BM-06']"
+Nasarawa,North Central,Maize,863.7,30.0,Processing,64.7,14876136.0,30.3,6971544.0,"['BM-01', 'BM-03']"
+Nasarawa,North Central,Maize,863.7,30.0,Storage,90.6,20826591.0,38.3,8811605.0,"['BM-02', 'BM-05']"
+Nasarawa,North Central,Maize,863.7,30.0,Transportation,51.7,11900909.0,25.2,5794855.0,['BM-04']
+Nasarawa,North Central,Maize,863.7,30.0,Market,12.9,2975227.0,5.8,1333992.0,"['BM-02', 'BM-07']"
+Nasarawa,North Central,Rice,914.1,37.2,Harvesting,50.9,33114699.0,30.1,19538372.0,"['BM-01', 'BM-06']"
+Nasarawa,North Central,Rice,914.1,37.2,Processing,84.9,55191166.0,56.2,36505544.0,"['BM-01', 'BM-03']"
+Nasarawa,North Central,Rice,914.1,37.2,Storage,118.9,77267632.0,76.2,49536404.0,"['BM-02', 'BM-05']"
+Nasarawa,North Central,Rice,914.1,37.2,Transportation,67.9,44152932.0,31.0,20132458.0,['BM-04']
+Nasarawa,North Central,Rice,914.1,37.2,Market,17.0,11038233.0,11.3,7370976.0,"['BM-02', 'BM-07']"
+Nasarawa,North Central,Sorghum,457.1,27.4,Harvesting,18.8,3755345.0,12.6,2511677.0,"['BM-01', 'BM-06']"
+Nasarawa,North Central,Sorghum,457.1,27.4,Processing,31.3,6258908.0,15.5,3100669.0,"['BM-01', 'BM-03']"
+Nasarawa,North Central,Sorghum,457.1,27.4,Storage,43.8,8762471.0,19.0,3794286.0,"['BM-02', 'BM-05']"
+Nasarawa,North Central,Sorghum,457.1,27.4,Transportation,25.0,5007126.0,11.7,2345241.0,['BM-04']
+Nasarawa,North Central,Sorghum,457.1,27.4,Market,6.3,1251782.0,3.3,661106.0,"['BM-02', 'BM-07']"
+Nasarawa,North Central,Millet,355.1,24.0,Harvesting,12.8,2302394.0,5.1,925759.0,"['BM-01', 'BM-06']"
+Nasarawa,North Central,Millet,355.1,24.0,Processing,21.3,3837323.0,11.8,2122900.0,"['BM-01', 'BM-03']"
+Nasarawa,North Central,Millet,355.1,24.0,Storage,29.8,5372252.0,15.7,2821632.0,"['BM-02', 'BM-05']"
+Nasarawa,North Central,Millet,355.1,24.0,Transportation,17.1,3069858.0,8.0,1432495.0,['BM-04']
+Nasarawa,North Central,Millet,355.1,24.0,Market,4.3,767465.0,1.9,334584.0,"['BM-02', 'BM-07']"
+Nasarawa,North Central,Vegetables,261.8,49.0,Harvesting,19.2,7695129.0,9.6,3824178.0,"['BM-01', 'BM-06']"
+Nasarawa,North Central,Vegetables,261.8,49.0,Processing,32.1,12825216.0,17.8,7126167.0,"['BM-01', 'BM-03']"
+Nasarawa,North Central,Vegetables,261.8,49.0,Storage,44.9,17955302.0,27.4,10968996.0,"['BM-02', 'BM-05']"
+Nasarawa,North Central,Vegetables,261.8,49.0,Transportation,25.7,10260173.0,13.1,5223340.0,['BM-04']
+Nasarawa,North Central,Vegetables,261.8,49.0,Market,6.4,2565043.0,4.4,1773816.0,"['BM-02', 'BM-07']"
+Niger,North Central,Maize,1137.6,29.0,Harvesting,49.5,11375941.0,27.2,6247377.0,"['BM-01', 'BM-06']"
+Niger,North Central,Maize,1137.6,29.0,Processing,82.4,18959901.0,40.4,9295347.0,"['BM-01', 'BM-03']"
+Niger,North Central,Maize,1137.6,29.0,Storage,115.4,26543862.0,56.0,12885775.0,"['BM-02', 'BM-05']"
+Niger,North Central,Maize,1137.6,29.0,Transportation,65.9,15167921.0,27.1,6235018.0,['BM-04']
+Niger,North Central,Maize,1137.6,29.0,Market,16.5,3791980.0,9.6,2210229.0,"['BM-02', 'BM-07']"
+Niger,North Central,Rice,780.8,31.9,Harvesting,37.3,24255762.0,18.0,11729939.0,"['BM-01', 'BM-06']"
+Niger,North Central,Rice,780.8,31.9,Processing,62.2,40426270.0,41.8,27185849.0,"['BM-01', 'BM-03']"
+Niger,North Central,Rice,780.8,31.9,Storage,87.1,56596778.0,41.1,26706241.0,"['BM-02', 'BM-05']"
+Niger,North Central,Rice,780.8,31.9,Transportation,49.8,32341016.0,22.1,14342221.0,['BM-04']
+Niger,North Central,Rice,780.8,31.9,Market,12.4,8085254.0,6.8,4421307.0,"['BM-02', 'BM-07']"
+Niger,North Central,Sorghum,537.4,24.5,Harvesting,19.7,3945018.0,11.9,2373483.0,"['BM-01', 'BM-06']"
+Niger,North Central,Sorghum,537.4,24.5,Processing,32.9,6575031.0,20.7,4132314.0,"['BM-01', 'BM-03']"
+Niger,North Central,Sorghum,537.4,24.5,Storage,46.0,9205043.0,21.7,4338256.0,"['BM-02', 'BM-05']"
+Niger,North Central,Sorghum,537.4,24.5,Transportation,26.3,5260025.0,16.3,3253141.0,['BM-04']
+Niger,North Central,Sorghum,537.4,24.5,Market,6.6,1315006.0,3.4,671094.0,"['BM-02', 'BM-07']"
+Niger,North Central,Millet,331.7,23.0,Harvesting,11.4,2059514.0,6.4,1154836.0,"['BM-01', 'BM-06']"
+Niger,North Central,Millet,331.7,23.0,Processing,19.1,3432523.0,8.1,1465986.0,"['BM-01', 'BM-03']"
+Niger,North Central,Millet,331.7,23.0,Storage,26.7,4805533.0,17.4,3126435.0,"['BM-02', 'BM-05']"
+Niger,North Central,Millet,331.7,23.0,Transportation,15.3,2746019.0,7.6,1362668.0,['BM-04']
+Niger,North Central,Millet,331.7,23.0,Market,3.8,686505.0,1.7,313016.0,"['BM-02', 'BM-07']"
+Niger,North Central,Vegetables,228.6,45.8,Harvesting,15.7,6283490.0,9.5,3790636.0,"['BM-01', 'BM-06']"
+Niger,North Central,Vegetables,228.6,45.8,Processing,26.2,10472483.0,10.6,4241108.0,"['BM-01', 'BM-03']"
+Niger,North Central,Vegetables,228.6,45.8,Storage,36.7,14661476.0,20.3,8117002.0,"['BM-02', 'BM-05']"
+Niger,North Central,Vegetables,228.6,45.8,Transportation,20.9,8377986.0,9.8,3920468.0,['BM-04']
+Niger,North Central,Vegetables,228.6,45.8,Market,5.2,2094497.0,3.1,1243192.0,"['BM-02', 'BM-07']"
+Plateau,North Central,Maize,835.0,31.7,Harvesting,39.7,9121341.0,20.5,4706800.0,"['BM-01', 'BM-06']"
+Plateau,North Central,Maize,835.0,31.7,Processing,66.1,15202236.0,45.0,10353011.0,"['BM-01', 'BM-03']"
+Plateau,North Central,Maize,835.0,31.7,Storage,92.5,21283130.0,40.8,9391315.0,"['BM-02', 'BM-05']"
+Plateau,North Central,Maize,835.0,31.7,Transportation,52.9,12161788.0,26.6,6109108.0,['BM-04']
+Plateau,North Central,Maize,835.0,31.7,Market,13.2,3040447.0,5.7,1319682.0,"['BM-02', 'BM-07']"
+Plateau,North Central,Rice,912.5,37.6,Harvesting,51.5,33489223.0,24.6,15987169.0,"['BM-01', 'BM-06']"
+Plateau,North Central,Rice,912.5,37.6,Processing,85.9,55815372.0,51.3,33377325.0,"['BM-01', 'BM-03']"
+Plateau,North Central,Rice,912.5,37.6,Storage,120.2,78141520.0,77.6,50414304.0,"['BM-02', 'BM-05']"
+Plateau,North Central,Rice,912.5,37.6,Transportation,68.7,44652297.0,38.9,25298216.0,['BM-04']
+Plateau,North Central,Rice,912.5,37.6,Market,17.2,11163074.0,9.6,6238988.0,"['BM-02', 'BM-07']"
+Plateau,North Central,Sorghum,403.5,23.7,Harvesting,14.3,2869172.0,9.6,1919949.0,"['BM-01', 'BM-06']"
+Plateau,North Central,Sorghum,403.5,23.7,Processing,23.9,4781954.0,16.0,3204509.0,"['BM-01', 'BM-03']"
+Plateau,North Central,Sorghum,403.5,23.7,Storage,33.5,6694735.0,19.7,3949428.0,"['BM-02', 'BM-05']"
+Plateau,North Central,Sorghum,403.5,23.7,Transportation,19.1,3825563.0,9.6,1919319.0,['BM-04']
+Plateau,North Central,Sorghum,403.5,23.7,Market,4.8,956391.0,2.4,482751.0,"['BM-02', 'BM-07']"
+Plateau,North Central,Millet,343.5,24.2,Harvesting,12.5,2242293.0,8.3,1493650.0,"['BM-01', 'BM-06']"
+Plateau,North Central,Millet,343.5,24.2,Processing,20.8,3737155.0,13.2,2369217.0,"['BM-01', 'BM-03']"
+Plateau,North Central,Millet,343.5,24.2,Storage,29.1,5232018.0,17.2,3100543.0,"['BM-02', 'BM-05']"
+Plateau,North Central,Millet,343.5,24.2,Transportation,16.6,2989724.0,7.1,1271356.0,['BM-04']
+Plateau,North Central,Millet,343.5,24.2,Market,4.2,747431.0,1.9,335214.0,"['BM-02', 'BM-07']"
+Plateau,North Central,Vegetables,324.6,46.0,Harvesting,22.4,8951803.0,9.0,3605420.0,"['BM-01', 'BM-06']"
+Plateau,North Central,Vegetables,324.6,46.0,Processing,37.3,14919671.0,16.1,6422045.0,"['BM-01', 'BM-03']"
+Plateau,North Central,Vegetables,324.6,46.0,Storage,52.2,20887540.0,31.3,12512692.0,"['BM-02', 'BM-05']"
+Plateau,North Central,Vegetables,324.6,46.0,Transportation,29.8,11935737.0,12.0,4792419.0,['BM-04']
+Plateau,North Central,Vegetables,324.6,46.0,Market,7.5,2983934.0,3.3,1337526.0,"['BM-02', 'BM-07']"
+FCT,North Central,Maize,978.7,31.7,Harvesting,46.5,10693763.0,27.7,6369081.0,"['BM-01', 'BM-06']"
+FCT,North Central,Maize,978.7,31.7,Processing,77.5,17822938.0,36.2,8328317.0,"['BM-01', 'BM-03']"
+FCT,North Central,Maize,978.7,31.7,Storage,108.5,24952113.0,66.6,15311958.0,"['BM-02', 'BM-05']"
+FCT,North Central,Maize,978.7,31.7,Transportation,62.0,14258350.0,29.2,6718174.0,['BM-04']
+FCT,North Central,Maize,978.7,31.7,Market,15.5,3564588.0,7.7,1773810.0,"['BM-02', 'BM-07']"
+FCT,North Central,Rice,856.9,36.0,Harvesting,46.3,30117004.0,30.3,19719621.0,"['BM-01', 'BM-06']"
+FCT,North Central,Rice,856.9,36.0,Processing,77.2,50195006.0,46.1,29980668.0,"['BM-01', 'BM-03']"
+FCT,North Central,Rice,856.9,36.0,Storage,108.1,70273009.0,61.7,40090230.0,"['BM-02', 'BM-05']"
+FCT,North Central,Rice,856.9,36.0,Transportation,61.8,40156005.0,26.4,17190883.0,['BM-04']
+FCT,North Central,Rice,856.9,36.0,Market,15.4,10039001.0,7.9,5123050.0,"['BM-02', 'BM-07']"
+FCT,North Central,Sorghum,407.7,24.5,Harvesting,15.0,2994292.0,10.4,2071760.0,"['BM-01', 'BM-06']"
+FCT,North Central,Sorghum,407.7,24.5,Processing,25.0,4990487.0,12.9,2584720.0,"['BM-01', 'BM-03']"
+FCT,North Central,Sorghum,407.7,24.5,Storage,34.9,6986682.0,23.3,4664407.0,"['BM-02', 'BM-05']"
+FCT,North Central,Sorghum,407.7,24.5,Transportation,20.0,3992390.0,11.8,2352881.0,['BM-04']
+FCT,North Central,Sorghum,407.7,24.5,Market,5.0,998097.0,3.2,637229.0,"['BM-02', 'BM-07']"
+FCT,North Central,Millet,315.3,22.7,Harvesting,10.8,1936463.0,5.9,1060708.0,"['BM-01', 'BM-06']"
+FCT,North Central,Millet,315.3,22.7,Processing,17.9,3227438.0,8.2,1480016.0,"['BM-01', 'BM-03']"
+FCT,North Central,Millet,315.3,22.7,Storage,25.1,4518413.0,15.5,2786666.0,"['BM-02', 'BM-05']"
+FCT,North Central,Millet,315.3,22.7,Transportation,14.3,2581950.0,6.9,1250262.0,['BM-04']
+FCT,North Central,Millet,315.3,22.7,Market,3.6,645488.0,1.5,262904.0,"['BM-02', 'BM-07']"
+FCT,North Central,Vegetables,296.3,42.1,Harvesting,18.7,7483291.0,12.8,5104634.0,"['BM-01', 'BM-06']"
+FCT,North Central,Vegetables,296.3,42.1,Processing,31.2,12472152.0,21.4,8558124.0,"['BM-01', 'BM-03']"
+FCT,North Central,Vegetables,296.3,42.1,Storage,43.7,17461013.0,29.4,11776743.0,"['BM-02', 'BM-05']"
+FCT,North Central,Vegetables,296.3,42.1,Transportation,24.9,9977722.0,12.7,5099091.0,['BM-04']
+FCT,North Central,Vegetables,296.3,42.1,Market,6.2,2494430.0,2.5,1009339.0,"['BM-02', 'BM-07']"
+Adamawa,North East,Maize,749.6,30.1,Harvesting,33.8,7774888.0,23.3,5364645.0,"['BM-01', 'BM-06']"
+Adamawa,North East,Maize,749.6,30.1,Processing,56.3,12958147.0,38.8,8929277.0,"['BM-01', 'BM-03']"
+Adamawa,North East,Maize,749.6,30.1,Storage,78.9,18141405.0,51.7,11898999.0,"['BM-02', 'BM-05']"
+Adamawa,North East,Maize,749.6,30.1,Transportation,45.1,10366517.0,22.0,5062330.0,['BM-04']
+Adamawa,North East,Maize,749.6,30.1,Market,11.3,2591629.0,5.8,1336061.0,"['BM-02', 'BM-07']"
+Adamawa,North East,Rice,479.0,33.7,Harvesting,24.2,15747064.0,10.9,7099529.0,"['BM-01', 'BM-06']"
+Adamawa,North East,Rice,479.0,33.7,Processing,40.4,26245106.0,22.9,14882035.0,"['BM-01', 'BM-03']"
+Adamawa,North East,Rice,479.0,33.7,Storage,56.5,36743149.0,38.5,25016442.0,"['BM-02', 'BM-05']"
+Adamawa,North East,Rice,479.0,33.7,Transportation,32.3,20996085.0,19.7,12782604.0,['BM-04']
+Adamawa,North East,Rice,479.0,33.7,Market,8.1,5249021.0,4.6,2997287.0,"['BM-02', 'BM-07']"
+Adamawa,North East,Sorghum,545.3,26.4,Harvesting,21.6,4317432.0,15.0,3009320.0,"['BM-01', 'BM-06']"
+Adamawa,North East,Sorghum,545.3,26.4,Processing,36.0,7195721.0,15.9,3180690.0,"['BM-01', 'BM-03']"
+Adamawa,North East,Sorghum,545.3,26.4,Storage,50.4,10074009.0,28.0,5596101.0,"['BM-02', 'BM-05']"
+Adamawa,North East,Sorghum,545.3,26.4,Transportation,28.8,5756576.0,19.1,3817830.0,['BM-04']
+Adamawa,North East,Sorghum,545.3,26.4,Market,7.2,1439144.0,4.5,895479.0,"['BM-02', 'BM-07']"
+Adamawa,North East,Millet,679.6,23.3,Harvesting,23.8,4276974.0,12.1,2172050.0,"['BM-01', 'BM-06']"
+Adamawa,North East,Millet,679.6,23.3,Processing,39.6,7128289.0,19.3,3479158.0,"['BM-01', 'BM-03']"
+Adamawa,North East,Millet,679.6,23.3,Storage,55.4,9979605.0,35.6,6414973.0,"['BM-02', 'BM-05']"
+Adamawa,North East,Millet,679.6,23.3,Transportation,31.7,5702631.0,20.4,3666986.0,['BM-04']
+Adamawa,North East,Millet,679.6,23.3,Market,7.9,1425658.0,5.2,941108.0,"['BM-02', 'BM-07']"
+Adamawa,North East,Vegetables,244.7,45.1,Harvesting,16.6,6622218.0,9.1,3645232.0,"['BM-01', 'BM-06']"
+Adamawa,North East,Vegetables,244.7,45.1,Processing,27.6,11037030.0,17.6,7058054.0,"['BM-01', 'BM-03']"
+Adamawa,North East,Vegetables,244.7,45.1,Storage,38.6,15451842.0,23.0,9193679.0,"['BM-02', 'BM-05']"
+Adamawa,North East,Vegetables,244.7,45.1,Transportation,22.1,8829624.0,13.5,5391281.0,['BM-04']
+Adamawa,North East,Vegetables,244.7,45.1,Market,5.5,2207406.0,3.5,1409954.0,"['BM-02', 'BM-07']"
+Bauchi,North East,Maize,739.8,29.5,Harvesting,32.8,7532740.0,16.8,3861847.0,"['BM-01', 'BM-06']"
+Bauchi,North East,Maize,739.8,29.5,Processing,54.6,12554566.0,23.4,5375797.0,"['BM-01', 'BM-03']"
+Bauchi,North East,Maize,739.8,29.5,Storage,76.4,17576393.0,43.8,10079781.0,"['BM-02', 'BM-05']"
+Bauchi,North East,Maize,739.8,29.5,Transportation,43.7,10043653.0,17.9,4125759.0,['BM-04']
+Bauchi,North East,Maize,739.8,29.5,Market,10.9,2510913.0,5.9,1355088.0,"['BM-02', 'BM-07']"
+Bauchi,North East,Rice,427.2,33.5,Harvesting,21.5,13954665.0,12.4,8055330.0,"['BM-01', 'BM-06']"
+Bauchi,North East,Rice,427.2,33.5,Processing,35.8,23257775.0,14.6,9515920.0,"['BM-01', 'BM-03']"
+Bauchi,North East,Rice,427.2,33.5,Storage,50.1,32560885.0,20.6,13389181.0,"['BM-02', 'BM-05']"
+Bauchi,North East,Rice,427.2,33.5,Transportation,28.6,18606220.0,18.5,12034134.0,['BM-04']
+Bauchi,North East,Rice,427.2,33.5,Market,7.2,4651555.0,3.6,2363256.0,"['BM-02', 'BM-07']"
+Bauchi,North East,Sorghum,553.0,25.9,Harvesting,21.5,4299539.0,13.6,2713001.0,"['BM-01', 'BM-06']"
+Bauchi,North East,Sorghum,553.0,25.9,Processing,35.8,7165898.0,16.7,3330325.0,"['BM-01', 'BM-03']"
+Bauchi,North East,Sorghum,553.0,25.9,Storage,50.2,10032258.0,29.4,5887602.0,"['BM-02', 'BM-05']"
+Bauchi,North East,Sorghum,553.0,25.9,Transportation,28.7,5732719.0,12.2,2439869.0,['BM-04']
+Bauchi,North East,Sorghum,553.0,25.9,Market,7.2,1433180.0,3.0,595493.0,"['BM-02', 'BM-07']"
+Bauchi,North East,Millet,637.9,22.6,Harvesting,21.6,3889382.0,12.8,2299515.0,"['BM-01', 'BM-06']"
+Bauchi,North East,Millet,637.9,22.6,Processing,36.0,6482303.0,22.2,4004944.0,"['BM-01', 'BM-03']"
+Bauchi,North East,Millet,637.9,22.6,Storage,50.4,9075224.0,34.9,6286913.0,"['BM-02', 'BM-05']"
+Bauchi,North East,Millet,637.9,22.6,Transportation,28.8,5185842.0,16.0,2877573.0,['BM-04']
+Bauchi,North East,Millet,637.9,22.6,Market,7.2,1296461.0,3.6,644194.0,"['BM-02', 'BM-07']"
+Bauchi,North East,Vegetables,234.8,42.9,Harvesting,15.1,6048921.0,8.0,3216160.0,"['BM-01', 'BM-06']"
+Bauchi,North East,Vegetables,234.8,42.9,Processing,25.2,10081536.0,10.7,4269902.0,"['BM-01', 'BM-03']"
+Bauchi,North East,Vegetables,234.8,42.9,Storage,35.3,14114150.0,14.4,5753001.0,"['BM-02', 'BM-05']"
+Bauchi,North East,Vegetables,234.8,42.9,Transportation,20.2,8065228.0,13.9,5555285.0,['BM-04']
+Bauchi,North East,Vegetables,234.8,42.9,Market,5.0,2016307.0,3.3,1312201.0,"['BM-02', 'BM-07']"
+Borno,North East,Maize,690.2,29.9,Harvesting,31.0,7130065.0,14.0,3222706.0,"['BM-01', 'BM-06']"
+Borno,North East,Maize,690.2,29.9,Processing,51.7,11883442.0,23.1,5311080.0,"['BM-01', 'BM-03']"
+Borno,North East,Maize,690.2,29.9,Storage,72.3,16636819.0,34.4,7903701.0,"['BM-02', 'BM-05']"
+Borno,North East,Maize,690.2,29.9,Transportation,41.3,9506754.0,23.3,5369110.0,['BM-04']
+Borno,North East,Maize,690.2,29.9,Market,10.3,2376688.0,6.3,1460187.0,"['BM-02', 'BM-07']"
+Borno,North East,Rice,446.9,33.5,Harvesting,22.4,14579670.0,15.4,10008354.0,"['BM-01', 'BM-06']"
+Borno,North East,Rice,446.9,33.5,Processing,37.4,24299450.0,23.2,15098927.0,"['BM-01', 'BM-03']"
+Borno,North East,Rice,446.9,33.5,Storage,52.3,34019230.0,29.6,19265301.0,"['BM-02', 'BM-05']"
+Borno,North East,Rice,446.9,33.5,Transportation,29.9,19439560.0,17.5,11343299.0,['BM-04']
+Borno,North East,Rice,446.9,33.5,Market,7.5,4859890.0,3.9,2555719.0,"['BM-02', 'BM-07']"
+Borno,North East,Sorghum,584.4,25.1,Harvesting,22.0,4393037.0,13.8,2755989.0,"['BM-01', 'BM-06']"
+Borno,North East,Sorghum,584.4,25.1,Processing,36.6,7321729.0,14.8,2960307.0,"['BM-01', 'BM-03']"
+Borno,North East,Sorghum,584.4,25.1,Storage,51.3,10250420.0,22.3,4457106.0,"['BM-02', 'BM-05']"
+Borno,North East,Sorghum,584.4,25.1,Transportation,29.3,5857383.0,12.1,2423790.0,['BM-04']
+Borno,North East,Sorghum,584.4,25.1,Market,7.3,1464346.0,3.0,603631.0,"['BM-02', 'BM-07']"
+Borno,North East,Millet,719.6,23.3,Harvesting,25.2,4529260.0,13.6,2456001.0,"['BM-01', 'BM-06']"
+Borno,North East,Millet,719.6,23.3,Processing,41.9,7548766.0,18.0,3241065.0,"['BM-01', 'BM-03']"
+Borno,North East,Millet,719.6,23.3,Storage,58.7,10568273.0,32.1,5785968.0,"['BM-02', 'BM-05']"
+Borno,North East,Millet,719.6,23.3,Transportation,33.6,6039013.0,18.2,3273396.0,['BM-04']
+Borno,North East,Millet,719.6,23.3,Market,8.4,1509753.0,3.8,682349.0,"['BM-02', 'BM-07']"
+Borno,North East,Vegetables,204.4,44.1,Harvesting,13.5,5407925.0,7.9,3162311.0,"['BM-01', 'BM-06']"
+Borno,North East,Vegetables,204.4,44.1,Processing,22.5,9013209.0,13.3,5322553.0,"['BM-01', 'BM-03']"
+Borno,North East,Vegetables,204.4,44.1,Storage,31.5,12618492.0,13.0,5218897.0,"['BM-02', 'BM-05']"
+Borno,North East,Vegetables,204.4,44.1,Transportation,18.0,7210567.0,9.2,3694578.0,['BM-04']
+Borno,North East,Vegetables,204.4,44.1,Market,4.5,1802642.0,2.6,1059517.0,"['BM-02', 'BM-07']"
+Gombe,North East,Maize,640.8,32.7,Harvesting,31.4,7223600.0,18.8,4316882.0,"['BM-01', 'BM-06']"
+Gombe,North East,Maize,640.8,32.7,Processing,52.3,12039333.0,23.5,5404220.0,"['BM-01', 'BM-03']"
+Gombe,North East,Maize,640.8,32.7,Storage,73.3,16855066.0,30.9,7098859.0,"['BM-02', 'BM-05']"
+Gombe,North East,Maize,640.8,32.7,Transportation,41.9,9631466.0,24.8,5708818.0,['BM-04']
+Gombe,North East,Maize,640.8,32.7,Market,10.5,2407867.0,4.3,982297.0,"['BM-02', 'BM-07']"
+Gombe,North East,Rice,434.4,38.1,Harvesting,24.8,16129468.0,14.2,9236415.0,"['BM-01', 'BM-06']"
+Gombe,North East,Rice,434.4,38.1,Processing,41.4,26882447.0,21.4,13883466.0,"['BM-01', 'BM-03']"
+Gombe,North East,Rice,434.4,38.1,Storage,57.9,37635426.0,34.3,22317298.0,"['BM-02', 'BM-05']"
+Gombe,North East,Rice,434.4,38.1,Transportation,33.1,21505958.0,17.8,11558933.0,['BM-04']
+Gombe,North East,Rice,434.4,38.1,Market,8.3,5376489.0,4.7,3030647.0,"['BM-02', 'BM-07']"
+Gombe,North East,Sorghum,764.8,25.2,Harvesting,28.9,5784563.0,19.9,3981845.0,"['BM-01', 'BM-06']"
+Gombe,North East,Sorghum,764.8,25.2,Processing,48.2,9640938.0,32.4,6474904.0,"['BM-01', 'BM-03']"
+Gombe,North East,Sorghum,764.8,25.2,Storage,67.5,13497313.0,31.0,6191722.0,"['BM-02', 'BM-05']"
+Gombe,North East,Sorghum,764.8,25.2,Transportation,38.6,7712751.0,16.2,3245590.0,['BM-04']
+Gombe,North East,Sorghum,764.8,25.2,Market,9.6,1928188.0,4.1,829571.0,"['BM-02', 'BM-07']"
+Gombe,North East,Millet,508.6,20.6,Harvesting,15.7,2826468.0,9.5,1709736.0,"['BM-01', 'BM-06']"
+Gombe,North East,Millet,508.6,20.6,Processing,26.2,4710780.0,11.0,1984918.0,"['BM-01', 'BM-03']"
+Gombe,North East,Millet,508.6,20.6,Storage,36.6,6595092.0,18.2,3269139.0,"['BM-02', 'BM-05']"
+Gombe,North East,Millet,508.6,20.6,Transportation,20.9,3768624.0,13.7,2462655.0,['BM-04']
+Gombe,North East,Millet,508.6,20.6,Market,5.2,942156.0,2.1,383440.0,"['BM-02', 'BM-07']"
+Gombe,North East,Vegetables,236.4,43.0,Harvesting,15.3,6104721.0,6.6,2658297.0,"['BM-01', 'BM-06']"
+Gombe,North East,Vegetables,236.4,43.0,Processing,25.4,10174535.0,15.5,6196507.0,"['BM-01', 'BM-03']"
+Gombe,North East,Vegetables,236.4,43.0,Storage,35.6,14244349.0,21.0,8385404.0,"['BM-02', 'BM-05']"
+Gombe,North East,Vegetables,236.4,43.0,Transportation,20.3,8139628.0,13.5,5398540.0,['BM-04']
+Gombe,North East,Vegetables,236.4,43.0,Market,5.1,2034907.0,3.2,1262703.0,"['BM-02', 'BM-07']"
+Taraba,North East,Maize,717.7,29.2,Harvesting,31.4,7222694.0,14.2,3273555.0,"['BM-01', 'BM-06']"
+Taraba,North East,Maize,717.7,29.2,Processing,52.3,12037823.0,32.7,7525860.0,"['BM-01', 'BM-03']"
+Taraba,North East,Maize,717.7,29.2,Storage,73.3,16852953.0,47.0,10820445.0,"['BM-02', 'BM-05']"
+Taraba,North East,Maize,717.7,29.2,Transportation,41.9,9630259.0,29.2,6713750.0,['BM-04']
+Taraba,North East,Maize,717.7,29.2,Market,10.5,2407565.0,5.5,1261047.0,"['BM-02', 'BM-07']"
+Taraba,North East,Rice,398.5,36.9,Harvesting,22.1,14350555.0,11.1,7207438.0,"['BM-01', 'BM-06']"
+Taraba,North East,Rice,398.5,36.9,Processing,36.8,23917592.0,25.0,16245479.0,"['BM-01', 'BM-03']"
+Taraba,North East,Rice,398.5,36.9,Storage,51.5,33484629.0,33.9,22016942.0,"['BM-02', 'BM-05']"
+Taraba,North East,Rice,398.5,36.9,Transportation,29.4,19134074.0,15.6,10116151.0,['BM-04']
+Taraba,North East,Rice,398.5,36.9,Market,7.4,4783518.0,4.6,2990949.0,"['BM-02', 'BM-07']"
+Taraba,North East,Sorghum,716.2,23.8,Harvesting,25.5,5103246.0,17.1,3423083.0,"['BM-01', 'BM-06']"
+Taraba,North East,Sorghum,716.2,23.8,Processing,42.5,8505410.0,23.5,4691378.0,"['BM-01', 'BM-03']"
+Taraba,North East,Sorghum,716.2,23.8,Storage,59.5,11907574.0,38.6,7715361.0,"['BM-02', 'BM-05']"
+Taraba,North East,Sorghum,716.2,23.8,Transportation,34.0,6804328.0,16.9,3375048.0,['BM-04']
+Taraba,North East,Sorghum,716.2,23.8,Market,8.5,1701082.0,5.7,1137440.0,"['BM-02', 'BM-07']"
+Taraba,North East,Millet,602.1,20.2,Harvesting,18.3,3285128.0,12.3,2206340.0,"['BM-01', 'BM-06']"
+Taraba,North East,Millet,602.1,20.2,Processing,30.4,5475214.0,13.0,2340030.0,"['BM-01', 'BM-03']"
+Taraba,North East,Millet,602.1,20.2,Storage,42.6,7665299.0,21.1,3800410.0,"['BM-02', 'BM-05']"
+Taraba,North East,Millet,602.1,20.2,Transportation,24.3,4380171.0,16.7,3000499.0,['BM-04']
+Taraba,North East,Millet,602.1,20.2,Market,6.1,1095043.0,4.2,750304.0,"['BM-02', 'BM-07']"
+Taraba,North East,Vegetables,216.2,46.2,Harvesting,15.0,5990452.0,8.0,3202098.0,"['BM-01', 'BM-06']"
+Taraba,North East,Vegetables,216.2,46.2,Processing,25.0,9984087.0,12.2,4871867.0,"['BM-01', 'BM-03']"
+Taraba,North East,Vegetables,216.2,46.2,Storage,34.9,13977722.0,17.4,6969283.0,"['BM-02', 'BM-05']"
+Taraba,North East,Vegetables,216.2,46.2,Transportation,20.0,7987270.0,12.0,4806384.0,['BM-04']
+Taraba,North East,Vegetables,216.2,46.2,Market,5.0,1996817.0,3.1,1249433.0,"['BM-02', 'BM-07']"
+Yobe,North East,Maize,714.6,32.3,Harvesting,34.6,7955421.0,14.8,3399843.0,"['BM-01', 'BM-06']"
+Yobe,North East,Maize,714.6,32.3,Processing,57.6,13259034.0,31.6,7270274.0,"['BM-01', 'BM-03']"
+Yobe,North East,Maize,714.6,32.3,Storage,80.7,18562648.0,33.7,7745592.0,"['BM-02', 'BM-05']"
+Yobe,North East,Maize,714.6,32.3,Transportation,46.1,10607227.0,26.1,5991584.0,['BM-04']
+Yobe,North East,Maize,714.6,32.3,Market,11.5,2651807.0,6.1,1411979.0,"['BM-02', 'BM-07']"
+Yobe,North East,Rice,485.1,34.0,Harvesting,24.7,16061581.0,10.8,6988717.0,"['BM-01', 'BM-06']"
+Yobe,North East,Rice,485.1,34.0,Processing,41.2,26769302.0,18.2,11856057.0,"['BM-01', 'BM-03']"
+Yobe,North East,Rice,485.1,34.0,Storage,57.7,37477023.0,36.2,23552555.0,"['BM-02', 'BM-05']"
+Yobe,North East,Rice,485.1,34.0,Transportation,32.9,21415442.0,19.3,12538001.0,['BM-04']
+Yobe,North East,Rice,485.1,34.0,Market,8.2,5353860.0,3.5,2303963.0,"['BM-02', 'BM-07']"
+Yobe,North East,Sorghum,541.9,26.8,Harvesting,21.8,4362632.0,9.2,1840284.0,"['BM-01', 'BM-06']"
+Yobe,North East,Sorghum,541.9,26.8,Processing,36.4,7271053.0,23.5,4701158.0,"['BM-01', 'BM-03']"
+Yobe,North East,Sorghum,541.9,26.8,Storage,50.9,10179474.0,31.1,6228542.0,"['BM-02', 'BM-05']"
+Yobe,North East,Sorghum,541.9,26.8,Transportation,29.1,5816842.0,12.3,2468695.0,['BM-04']
+Yobe,North East,Sorghum,541.9,26.8,Market,7.3,1454211.0,3.1,618696.0,"['BM-02', 'BM-07']"
+Yobe,North East,Millet,752.6,21.8,Harvesting,24.7,4437463.0,12.6,2268399.0,"['BM-01', 'BM-06']"
+Yobe,North East,Millet,752.6,21.8,Processing,41.1,7395772.0,26.5,4761693.0,"['BM-01', 'BM-03']"
+Yobe,North East,Millet,752.6,21.8,Storage,57.5,10354081.0,39.4,7083999.0,"['BM-02', 'BM-05']"
+Yobe,North East,Millet,752.6,21.8,Transportation,32.9,5916618.0,22.9,4116785.0,['BM-04']
+Yobe,North East,Millet,752.6,21.8,Market,8.2,1479154.0,5.1,925971.0,"['BM-02', 'BM-07']"
+Yobe,North East,Vegetables,199.6,41.3,Harvesting,12.4,4940424.0,7.8,3128000.0,"['BM-01', 'BM-06']"
+Yobe,North East,Vegetables,199.6,41.3,Processing,20.6,8234040.0,11.7,4672993.0,"['BM-01', 'BM-03']"
+Yobe,North East,Vegetables,199.6,41.3,Storage,28.8,11527656.0,15.2,6078148.0,"['BM-02', 'BM-05']"
+Yobe,North East,Vegetables,199.6,41.3,Transportation,16.5,6587232.0,11.1,4426003.0,['BM-04']
+Yobe,North East,Vegetables,199.6,41.3,Market,4.1,1646808.0,1.8,713659.0,"['BM-02', 'BM-07']"
+Jigawa,North West,Maize,1196.5,27.5,Harvesting,49.4,11359364.0,26.7,6140851.0,"['BM-01', 'BM-06']"
+Jigawa,North West,Maize,1196.5,27.5,Processing,82.3,18932273.0,34.3,7892694.0,"['BM-01', 'BM-03']"
+Jigawa,North West,Maize,1196.5,27.5,Storage,115.2,26505182.0,50.2,11546860.0,"['BM-02', 'BM-05']"
+Jigawa,North West,Maize,1196.5,27.5,Transportation,65.9,15145818.0,28.7,6592337.0,['BM-04']
+Jigawa,North West,Maize,1196.5,27.5,Market,16.5,3786455.0,9.8,2252043.0,"['BM-02', 'BM-07']"
+Jigawa,North West,Rice,922.7,35.6,Harvesting,49.2,32011143.0,33.9,22044530.0,"['BM-01', 'BM-06']"
+Jigawa,North West,Rice,922.7,35.6,Processing,82.1,53351905.0,42.1,27340780.0,"['BM-01', 'BM-03']"
+Jigawa,North West,Rice,922.7,35.6,Storage,114.9,74692667.0,55.8,36279246.0,"['BM-02', 'BM-05']"
+Jigawa,North West,Rice,922.7,35.6,Transportation,65.7,42681524.0,43.4,28194550.0,['BM-04']
+Jigawa,North West,Rice,922.7,35.6,Market,16.4,10670381.0,7.7,4983908.0,"['BM-02', 'BM-07']"
+Jigawa,North West,Sorghum,948.2,23.3,Harvesting,33.1,6623220.0,22.9,4576404.0,"['BM-01', 'BM-06']"
+Jigawa,North West,Sorghum,948.2,23.3,Processing,55.2,11038700.0,22.8,4558409.0,"['BM-01', 'BM-03']"
+Jigawa,North West,Sorghum,948.2,23.3,Storage,77.3,15454179.0,51.6,10313237.0,"['BM-02', 'BM-05']"
+Jigawa,North West,Sorghum,948.2,23.3,Transportation,44.2,8830960.0,24.7,4930416.0,['BM-04']
+Jigawa,North West,Sorghum,948.2,23.3,Market,11.0,2207740.0,7.7,1540758.0,"['BM-02', 'BM-07']"
+Jigawa,North West,Millet,634.6,22.6,Harvesting,21.6,3879288.0,14.9,2679777.0,"['BM-01', 'BM-06']"
+Jigawa,North West,Millet,634.6,22.6,Processing,35.9,6465481.0,20.0,3600816.0,"['BM-01', 'BM-03']"
+Jigawa,North West,Millet,634.6,22.6,Storage,50.3,9051673.0,29.6,5329802.0,"['BM-02', 'BM-05']"
+Jigawa,North West,Millet,634.6,22.6,Transportation,28.7,5172385.0,17.5,3148558.0,['BM-04']
+Jigawa,North West,Millet,634.6,22.6,Market,7.2,1293096.0,3.9,693568.0,"['BM-02', 'BM-07']"
+Jigawa,North West,Vegetables,257.5,45.8,Harvesting,17.7,7069758.0,11.8,4739194.0,"['BM-01', 'BM-06']"
+Jigawa,North West,Vegetables,257.5,45.8,Processing,29.5,11782930.0,12.2,4873819.0,"['BM-01', 'BM-03']"
+Jigawa,North West,Vegetables,257.5,45.8,Storage,41.2,16496102.0,20.0,7988880.0,"['BM-02', 'BM-05']"
+Jigawa,North West,Vegetables,257.5,45.8,Transportation,23.6,9426344.0,16.1,6458209.0,['BM-04']
+Jigawa,North West,Vegetables,257.5,45.8,Market,5.9,2356586.0,3.9,1572029.0,"['BM-02', 'BM-07']"
+Kaduna,North West,Maize,1178.7,31.2,Harvesting,55.2,12701033.0,26.7,6137321.0,"['BM-01', 'BM-06']"
+Kaduna,North West,Maize,1178.7,31.2,Processing,92.0,21168388.0,42.0,9662022.0,"['BM-01', 'BM-03']"
+Kaduna,North West,Maize,1178.7,31.2,Storage,128.9,29635743.0,69.5,15976911.0,"['BM-02', 'BM-05']"
+Kaduna,North West,Maize,1178.7,31.2,Transportation,73.6,16934710.0,37.3,8569059.0,['BM-04']
+Kaduna,North West,Maize,1178.7,31.2,Market,18.4,4233678.0,10.6,2434775.0,"['BM-02', 'BM-07']"
+Kaduna,North West,Rice,698.1,38.3,Harvesting,40.1,26083636.0,27.9,18150643.0,"['BM-01', 'BM-06']"
+Kaduna,North West,Rice,698.1,38.3,Processing,66.9,43472726.0,40.8,26494388.0,"['BM-01', 'BM-03']"
+Kaduna,North West,Rice,698.1,38.3,Storage,93.6,60861817.0,52.5,34133066.0,"['BM-02', 'BM-05']"
+Kaduna,North West,Rice,698.1,38.3,Transportation,53.5,34778181.0,26.4,17140715.0,['BM-04']
+Kaduna,North West,Rice,698.1,38.3,Market,13.4,8694545.0,8.6,5600491.0,"['BM-02', 'BM-07']"
+Kaduna,North West,Sorghum,859.1,24.1,Harvesting,31.0,6200854.0,20.9,4174899.0,"['BM-01', 'BM-06']"
+Kaduna,North West,Sorghum,859.1,24.1,Processing,51.7,10334756.0,33.4,6684119.0,"['BM-01', 'BM-03']"
+Kaduna,North West,Sorghum,859.1,24.1,Storage,72.3,14468658.0,49.6,9910162.0,"['BM-02', 'BM-05']"
+Kaduna,North West,Sorghum,859.1,24.1,Transportation,41.3,8267805.0,25.5,5107154.0,['BM-04']
+Kaduna,North West,Sorghum,859.1,24.1,Market,10.3,2066951.0,6.0,1207150.0,"['BM-02', 'BM-07']"
+Kaduna,North West,Millet,740.0,24.3,Harvesting,27.0,4862741.0,17.8,3208530.0,"['BM-01', 'BM-06']"
+Kaduna,North West,Millet,740.0,24.3,Processing,45.0,8104569.0,18.6,3351771.0,"['BM-01', 'BM-03']"
+Kaduna,North West,Millet,740.0,24.3,Storage,63.0,11346396.0,25.7,4628309.0,"['BM-02', 'BM-05']"
+Kaduna,North West,Millet,740.0,24.3,Transportation,36.0,6483655.0,18.5,3325719.0,['BM-04']
+Kaduna,North West,Millet,740.0,24.3,Market,9.0,1620914.0,5.8,1042517.0,"['BM-02', 'BM-07']"
+Kaduna,North West,Vegetables,292.8,41.9,Harvesting,18.4,7351688.0,10.6,4251035.0,"['BM-01', 'BM-06']"
+Kaduna,North West,Vegetables,292.8,41.9,Processing,30.6,12252814.0,15.8,6301221.0,"['BM-01', 'BM-03']"
+Kaduna,North West,Vegetables,292.8,41.9,Storage,42.9,17153940.0,29.6,11852932.0,"['BM-02', 'BM-05']"
+Kaduna,North West,Vegetables,292.8,41.9,Transportation,24.5,9802251.0,16.0,6397299.0,['BM-04']
+Kaduna,North West,Vegetables,292.8,41.9,Market,6.1,2450563.0,4.0,1596538.0,"['BM-02', 'BM-07']"
+Kano,North West,Maize,1185.0,30.0,Harvesting,53.3,12256454.0,25.7,5907882.0,"['BM-01', 'BM-06']"
+Kano,North West,Maize,1185.0,30.0,Processing,88.8,20427424.0,37.0,8516451.0,"['BM-01', 'BM-03']"
+Kano,North West,Maize,1185.0,30.0,Storage,124.3,28598394.0,82.0,18858259.0,"['BM-02', 'BM-05']"
+Kano,North West,Maize,1185.0,30.0,Transportation,71.1,16341939.0,45.7,10522089.0,['BM-04']
+Kano,North West,Maize,1185.0,30.0,Market,17.8,4085485.0,12.4,2859493.0,"['BM-02', 'BM-07']"
+Kano,North West,Rice,1006.9,35.4,Harvesting,53.4,34740358.0,33.7,21910613.0,"['BM-01', 'BM-06']"
+Kano,North West,Rice,1006.9,35.4,Processing,89.1,57900597.0,60.9,39570989.0,"['BM-01', 'BM-03']"
+Kano,North West,Rice,1006.9,35.4,Storage,124.7,81060836.0,81.7,53086273.0,"['BM-02', 'BM-05']"
+Kano,North West,Rice,1006.9,35.4,Transportation,71.3,46320478.0,33.8,21965376.0,['BM-04']
+Kano,North West,Rice,1006.9,35.4,Market,17.8,11580119.0,9.5,6197254.0,"['BM-02', 'BM-07']"
+Kano,North West,Sorghum,681.3,28.1,Harvesting,28.8,5752390.0,16.7,3347042.0,"['BM-01', 'BM-06']"
+Kano,North West,Sorghum,681.3,28.1,Processing,47.9,9587316.0,22.5,4492548.0,"['BM-01', 'BM-03']"
+Kano,North West,Sorghum,681.3,28.1,Storage,67.1,13422243.0,40.4,8073616.0,"['BM-02', 'BM-05']"
+Kano,North West,Sorghum,681.3,28.1,Transportation,38.3,7669853.0,22.5,4490227.0,['BM-04']
+Kano,North West,Sorghum,681.3,28.1,Market,9.6,1917463.0,4.9,973014.0,"['BM-02', 'BM-07']"
+Kano,North West,Millet,646.7,23.2,Harvesting,22.5,4045759.0,12.5,2249815.0,"['BM-01', 'BM-06']"
+Kano,North West,Millet,646.7,23.2,Processing,37.5,6742931.0,23.7,4259479.0,"['BM-01', 'BM-03']"
+Kano,North West,Millet,646.7,23.2,Storage,52.4,9440103.0,29.2,5249161.0,"['BM-02', 'BM-05']"
+Kano,North West,Millet,646.7,23.2,Transportation,30.0,5394345.0,19.6,3536826.0,['BM-04']
+Kano,North West,Millet,646.7,23.2,Market,7.5,1348586.0,4.2,762723.0,"['BM-02', 'BM-07']"
+Kano,North West,Vegetables,251.0,48.4,Harvesting,18.2,7286701.0,9.5,3796698.0,"['BM-01', 'BM-06']"
+Kano,North West,Vegetables,251.0,48.4,Processing,30.4,12144502.0,13.4,5346065.0,"['BM-01', 'BM-03']"
+Kano,North West,Vegetables,251.0,48.4,Storage,42.5,17002302.0,17.4,6947733.0,"['BM-02', 'BM-05']"
+Kano,North West,Vegetables,251.0,48.4,Transportation,24.3,9715601.0,15.2,6087224.0,['BM-04']
+Kano,North West,Vegetables,251.0,48.4,Market,6.1,2428900.0,3.6,1423561.0,"['BM-02', 'BM-07']"
+Katsina,North West,Maize,1298.0,28.7,Harvesting,56.0,12873712.0,24.7,5676167.0,"['BM-01', 'BM-06']"
+Katsina,North West,Maize,1298.0,28.7,Processing,93.3,21456187.0,37.7,8676097.0,"['BM-01', 'BM-03']"
+Katsina,North West,Maize,1298.0,28.7,Storage,130.6,30038662.0,66.0,15174819.0,"['BM-02', 'BM-05']"
+Katsina,North West,Maize,1298.0,28.7,Transportation,74.6,17164950.0,43.1,9903752.0,['BM-04']
+Katsina,North West,Maize,1298.0,28.7,Market,18.7,4291237.0,9.7,2221459.0,"['BM-02', 'BM-07']"
+Katsina,North West,Rice,819.0,37.8,Harvesting,46.5,30207180.0,23.4,15238817.0,"['BM-01', 'BM-06']"
+Katsina,North West,Rice,819.0,37.8,Processing,77.5,50345300.0,42.9,27901206.0,"['BM-01', 'BM-03']"
+Katsina,North West,Rice,819.0,37.8,Storage,108.4,70483420.0,68.9,44763731.0,"['BM-02', 'BM-05']"
+Katsina,North West,Rice,819.0,37.8,Transportation,62.0,40276240.0,32.2,20901872.0,['BM-04']
+Katsina,North West,Rice,819.0,37.8,Market,15.5,10069060.0,9.1,5906772.0,"['BM-02', 'BM-07']"
+Katsina,North West,Sorghum,916.0,28.1,Harvesting,38.6,7726878.0,17.2,3431677.0,"['BM-01', 'BM-06']"
+Katsina,North West,Sorghum,916.0,28.1,Processing,64.4,12878130.0,43.7,8731067.0,"['BM-01', 'BM-03']"
+Katsina,North West,Sorghum,916.0,28.1,Storage,90.1,18029382.0,49.4,9873519.0,"['BM-02', 'BM-05']"
+Katsina,North West,Sorghum,916.0,28.1,Transportation,51.5,10302504.0,24.6,4919171.0,['BM-04']
+Katsina,North West,Sorghum,916.0,28.1,Market,12.9,2575626.0,6.9,1385019.0,"['BM-02', 'BM-07']"
+Katsina,North West,Millet,911.9,22.4,Harvesting,30.6,5506968.0,15.3,2745915.0,"['BM-01', 'BM-06']"
+Katsina,North West,Millet,911.9,22.4,Processing,51.0,9178280.0,30.1,5415371.0,"['BM-01', 'BM-03']"
+Katsina,North West,Millet,911.9,22.4,Storage,71.4,12849592.0,33.7,6065569.0,"['BM-02', 'BM-05']"
+Katsina,North West,Millet,911.9,22.4,Transportation,40.8,7342624.0,17.2,3104160.0,['BM-04']
+Katsina,North West,Millet,911.9,22.4,Market,10.2,1835656.0,4.5,805236.0,"['BM-02', 'BM-07']"
+Katsina,North West,Vegetables,208.5,41.9,Harvesting,13.1,5238795.0,5.8,2313704.0,"['BM-01', 'BM-06']"
+Katsina,North West,Vegetables,208.5,41.9,Processing,21.8,8731326.0,12.9,5171236.0,"['BM-01', 'BM-03']"
+Katsina,North West,Vegetables,208.5,41.9,Storage,30.6,12223856.0,13.9,5556525.0,"['BM-02', 'BM-05']"
+Katsina,North West,Vegetables,208.5,41.9,Transportation,17.5,6985061.0,8.8,3518376.0,['BM-04']
+Katsina,North West,Vegetables,208.5,41.9,Market,4.4,1746265.0,2.9,1168315.0,"['BM-02', 'BM-07']"
+Kebbi,North West,Maize,1187.5,31.5,Harvesting,56.1,12914229.0,25.4,5833305.0,"['BM-01', 'BM-06']"
+Kebbi,North West,Maize,1187.5,31.5,Processing,93.6,21523714.0,42.8,9851118.0,"['BM-01', 'BM-03']"
+Kebbi,North West,Maize,1187.5,31.5,Storage,131.0,30133200.0,54.0,12422731.0,"['BM-02', 'BM-05']"
+Kebbi,North West,Maize,1187.5,31.5,Transportation,74.9,17218971.0,33.7,7760255.0,['BM-04']
+Kebbi,North West,Maize,1187.5,31.5,Market,18.7,4304743.0,9.1,2081675.0,"['BM-02', 'BM-07']"
+Kebbi,North West,Rice,731.5,32.1,Harvesting,35.2,22908273.0,15.4,9992377.0,"['BM-01', 'BM-06']"
+Kebbi,North West,Rice,731.5,32.1,Processing,58.7,38180456.0,31.6,20550005.0,"['BM-01', 'BM-03']"
+Kebbi,North West,Rice,731.5,32.1,Storage,82.2,53452638.0,38.0,24689780.0,"['BM-02', 'BM-05']"
+Kebbi,North West,Rice,731.5,32.1,Transportation,47.0,30544365.0,23.9,15555663.0,['BM-04']
+Kebbi,North West,Rice,731.5,32.1,Market,11.7,7636091.0,6.5,4207679.0,"['BM-02', 'BM-07']"
+Kebbi,North West,Sorghum,860.9,23.4,Harvesting,30.2,6049605.0,19.4,3870677.0,"['BM-01', 'BM-06']"
+Kebbi,North West,Sorghum,860.9,23.4,Processing,50.4,10082675.0,29.7,5932344.0,"['BM-01', 'BM-03']"
+Kebbi,North West,Sorghum,860.9,23.4,Storage,70.6,14115744.0,30.0,5992525.0,"['BM-02', 'BM-05']"
+Kebbi,North West,Sorghum,860.9,23.4,Transportation,40.3,8066140.0,26.7,5340378.0,['BM-04']
+Kebbi,North West,Sorghum,860.9,23.4,Market,10.1,2016535.0,6.8,1363705.0,"['BM-02', 'BM-07']"
+Kebbi,North West,Millet,630.7,21.4,Harvesting,20.2,3644196.0,13.0,2339065.0,"['BM-01', 'BM-06']"
+Kebbi,North West,Millet,630.7,21.4,Processing,33.7,6073660.0,21.1,3792867.0,"['BM-01', 'BM-03']"
+Kebbi,North West,Millet,630.7,21.4,Storage,47.2,8503124.0,21.5,3871951.0,"['BM-02', 'BM-05']"
+Kebbi,North West,Millet,630.7,21.4,Transportation,27.0,4858928.0,12.5,2248735.0,['BM-04']
+Kebbi,North West,Millet,630.7,21.4,Market,6.7,1214732.0,3.4,620900.0,"['BM-02', 'BM-07']"
+Kebbi,North West,Vegetables,243.5,46.1,Harvesting,16.8,6729530.0,8.6,3436597.0,"['BM-01', 'BM-06']"
+Kebbi,North West,Vegetables,243.5,46.1,Processing,28.0,11215884.0,15.1,6042674.0,"['BM-01', 'BM-03']"
+Kebbi,North West,Vegetables,243.5,46.1,Storage,39.3,15702237.0,24.5,9801985.0,"['BM-02', 'BM-05']"
+Kebbi,North West,Vegetables,243.5,46.1,Transportation,22.4,8972707.0,9.2,3687827.0,['BM-04']
+Kebbi,North West,Vegetables,243.5,46.1,Market,5.6,2243177.0,2.7,1067149.0,"['BM-02', 'BM-07']"
+Sokoto,North West,Maize,1302.4,32.9,Harvesting,64.3,14787815.0,35.6,8185104.0,"['BM-01', 'BM-06']"
+Sokoto,North West,Maize,1302.4,32.9,Processing,107.2,24646359.0,60.0,13792942.0,"['BM-01', 'BM-03']"
+Sokoto,North West,Maize,1302.4,32.9,Storage,150.0,34504902.0,64.8,14911349.0,"['BM-02', 'BM-05']"
+Sokoto,North West,Maize,1302.4,32.9,Transportation,85.7,19717087.0,45.8,10533335.0,['BM-04']
+Sokoto,North West,Maize,1302.4,32.9,Market,21.4,4929272.0,12.0,2759333.0,"['BM-02', 'BM-07']"
+Sokoto,North West,Rice,753.5,33.4,Harvesting,37.7,24525515.0,19.4,12586133.0,"['BM-01', 'BM-06']"
+Sokoto,North West,Rice,753.5,33.4,Processing,62.9,40875859.0,25.5,16596472.0,"['BM-01', 'BM-03']"
+Sokoto,North West,Rice,753.5,33.4,Storage,88.0,57226203.0,43.7,28419891.0,"['BM-02', 'BM-05']"
+Sokoto,North West,Rice,753.5,33.4,Transportation,50.3,32700687.0,23.3,15154623.0,['BM-04']
+Sokoto,North West,Rice,753.5,33.4,Market,12.6,8175172.0,6.3,4073273.0,"['BM-02', 'BM-07']"
+Sokoto,North West,Sorghum,678.3,27.8,Harvesting,28.3,5660298.0,16.4,3272092.0,"['BM-01', 'BM-06']"
+Sokoto,North West,Sorghum,678.3,27.8,Processing,47.2,9433830.0,28.5,5695493.0,"['BM-01', 'BM-03']"
+Sokoto,North West,Sorghum,678.3,27.8,Storage,66.0,13207362.0,42.0,8409806.0,"['BM-02', 'BM-05']"
+Sokoto,North West,Sorghum,678.3,27.8,Transportation,37.7,7547064.0,20.7,4147358.0,['BM-04']
+Sokoto,North West,Sorghum,678.3,27.8,Market,9.4,1886766.0,4.0,803906.0,"['BM-02', 'BM-07']"
+Sokoto,North West,Millet,776.4,22.8,Harvesting,26.5,4776943.0,16.6,2979054.0,"['BM-01', 'BM-06']"
+Sokoto,North West,Millet,776.4,22.8,Processing,44.2,7961572.0,23.4,4215635.0,"['BM-01', 'BM-03']"
+Sokoto,North West,Millet,776.4,22.8,Storage,61.9,11146201.0,27.1,4885091.0,"['BM-02', 'BM-05']"
+Sokoto,North West,Millet,776.4,22.8,Transportation,35.4,6369258.0,17.2,3089936.0,['BM-04']
+Sokoto,North West,Millet,776.4,22.8,Market,8.8,1592314.0,4.5,810368.0,"['BM-02', 'BM-07']"
+Sokoto,North West,Vegetables,259.3,45.6,Harvesting,17.8,7100202.0,9.0,3598588.0,"['BM-01', 'BM-06']"
+Sokoto,North West,Vegetables,259.3,45.6,Processing,29.6,11833670.0,20.6,8235697.0,"['BM-01', 'BM-03']"
+Sokoto,North West,Vegetables,259.3,45.6,Storage,41.4,16567138.0,24.1,9637642.0,"['BM-02', 'BM-05']"
+Sokoto,North West,Vegetables,259.3,45.6,Transportation,23.7,9466936.0,11.2,4460518.0,['BM-04']
+Sokoto,North West,Vegetables,259.3,45.6,Market,5.9,2366734.0,2.5,1018961.0,"['BM-02', 'BM-07']"
+Zamfara,North West,Maize,1033.4,29.0,Harvesting,44.9,10321187.0,20.1,4626002.0,"['BM-01', 'BM-06']"
+Zamfara,North West,Maize,1033.4,29.0,Processing,74.8,17201978.0,34.1,7843588.0,"['BM-01', 'BM-03']"
+Zamfara,North West,Maize,1033.4,29.0,Storage,104.7,24082770.0,50.8,11692872.0,"['BM-02', 'BM-05']"
+Zamfara,North West,Maize,1033.4,29.0,Transportation,59.8,13761583.0,27.0,6220402.0,['BM-04']
+Zamfara,North West,Maize,1033.4,29.0,Market,15.0,3440396.0,10.0,2301727.0,"['BM-02', 'BM-07']"
+Zamfara,North West,Rice,699.0,35.2,Harvesting,36.9,23968889.0,19.3,12538582.0,"['BM-01', 'BM-06']"
+Zamfara,North West,Rice,699.0,35.2,Processing,61.5,39948148.0,42.7,27752521.0,"['BM-01', 'BM-03']"
+Zamfara,North West,Rice,699.0,35.2,Storage,86.0,55927408.0,37.3,24250777.0,"['BM-02', 'BM-05']"
+Zamfara,North West,Rice,699.0,35.2,Transportation,49.2,31958519.0,25.5,16597870.0,['BM-04']
+Zamfara,North West,Rice,699.0,35.2,Market,12.3,7989630.0,8.5,5519565.0,"['BM-02', 'BM-07']"
+Zamfara,North West,Sorghum,917.0,27.4,Harvesting,37.7,7547358.0,18.0,3602889.0,"['BM-01', 'BM-06']"
+Zamfara,North West,Sorghum,917.0,27.4,Processing,62.9,12578931.0,28.4,5676447.0,"['BM-01', 'BM-03']"
+Zamfara,North West,Sorghum,917.0,27.4,Storage,88.1,17610503.0,52.9,10576744.0,"['BM-02', 'BM-05']"
+Zamfara,North West,Sorghum,917.0,27.4,Transportation,50.3,10063145.0,34.2,6830991.0,['BM-04']
+Zamfara,North West,Sorghum,917.0,27.4,Market,12.6,2515786.0,7.1,1426523.0,"['BM-02', 'BM-07']"
+Zamfara,North West,Millet,786.9,21.4,Harvesting,25.3,4549826.0,15.9,2870248.0,"['BM-01', 'BM-06']"
+Zamfara,North West,Millet,786.9,21.4,Processing,42.1,7583043.0,19.2,3458725.0,"['BM-01', 'BM-03']"
+Zamfara,North West,Millet,786.9,21.4,Storage,59.0,10616260.0,29.3,5277383.0,"['BM-02', 'BM-05']"
+Zamfara,North West,Millet,786.9,21.4,Transportation,33.7,6066434.0,17.8,3200838.0,['BM-04']
+Zamfara,North West,Millet,786.9,21.4,Market,8.4,1516609.0,4.7,837597.0,"['BM-02', 'BM-07']"
+Zamfara,North West,Vegetables,219.8,41.5,Harvesting,13.7,5476349.0,8.0,3193730.0,"['BM-01', 'BM-06']"
+Zamfara,North West,Vegetables,219.8,41.5,Processing,22.8,9127249.0,11.1,4441221.0,"['BM-01', 'BM-03']"
+Zamfara,North West,Vegetables,219.8,41.5,Storage,31.9,12778149.0,18.3,7339404.0,"['BM-02', 'BM-05']"
+Zamfara,North West,Vegetables,219.8,41.5,Transportation,18.3,7301799.0,8.1,3258857.0,['BM-04']
+Zamfara,North West,Vegetables,219.8,41.5,Market,4.6,1825450.0,2.5,993669.0,"['BM-02', 'BM-07']"
+Abia,South East,Maize,486.3,27.8,Harvesting,20.3,4658009.0,10.1,2333576.0,"['BM-01', 'BM-06']"
+Abia,South East,Maize,486.3,27.8,Processing,33.8,7763349.0,14.9,3418392.0,"['BM-01', 'BM-03']"
+Abia,South East,Maize,486.3,27.8,Storage,47.3,10868689.0,19.8,4554116.0,"['BM-02', 'BM-05']"
+Abia,South East,Maize,486.3,27.8,Transportation,27.0,6210679.0,18.8,4328769.0,['BM-04']
+Abia,South East,Maize,486.3,27.8,Market,6.8,1552670.0,3.4,771221.0,"['BM-02', 'BM-07']"
+Abia,South East,Rice,539.5,33.3,Harvesting,26.9,17506870.0,16.3,10582042.0,"['BM-01', 'BM-06']"
+Abia,South East,Rice,539.5,33.3,Processing,44.9,29178116.0,28.2,18325851.0,"['BM-01', 'BM-03']"
+Abia,South East,Rice,539.5,33.3,Storage,62.8,40849363.0,36.4,23639184.0,"['BM-02', 'BM-05']"
+Abia,South East,Rice,539.5,33.3,Transportation,35.9,23342493.0,19.4,12639326.0,['BM-04']
+Abia,South East,Rice,539.5,33.3,Market,9.0,5835623.0,4.7,3055254.0,"['BM-02', 'BM-07']"
+Abia,South East,Sorghum,94.0,28.0,Harvesting,3.9,789681.0,2.6,512650.0,"['BM-01', 'BM-06']"
+Abia,South East,Sorghum,94.0,28.0,Processing,6.6,1316135.0,4.5,907486.0,"['BM-01', 'BM-03']"
+Abia,South East,Sorghum,94.0,28.0,Storage,9.2,1842589.0,4.0,805744.0,"['BM-02', 'BM-05']"
+Abia,South East,Sorghum,94.0,28.0,Transportation,5.3,1052908.0,3.3,652024.0,['BM-04']
+Abia,South East,Sorghum,94.0,28.0,Market,1.3,263227.0,0.9,179390.0,"['BM-02', 'BM-07']"
+Abia,South East,Millet,39.3,20.5,Harvesting,1.2,216870.0,0.7,134966.0,"['BM-01', 'BM-06']"
+Abia,South East,Millet,39.3,20.5,Processing,2.0,361450.0,1.1,206873.0,"['BM-01', 'BM-03']"
+Abia,South East,Millet,39.3,20.5,Storage,2.8,506030.0,1.8,330209.0,"['BM-02', 'BM-05']"
+Abia,South East,Millet,39.3,20.5,Transportation,1.6,289160.0,0.7,127789.0,['BM-04']
+Abia,South East,Millet,39.3,20.5,Market,0.4,72290.0,0.3,46163.0,"['BM-02', 'BM-07']"
+Abia,South East,Vegetables,369.9,42.0,Harvesting,23.3,9314796.0,10.5,4184949.0,"['BM-01', 'BM-06']"
+Abia,South East,Vegetables,369.9,42.0,Processing,38.8,15524660.0,25.0,10003663.0,"['BM-01', 'BM-03']"
+Abia,South East,Vegetables,369.9,42.0,Storage,54.3,21734524.0,32.6,13031133.0,"['BM-02', 'BM-05']"
+Abia,South East,Vegetables,369.9,42.0,Transportation,31.0,12419728.0,17.3,6916790.0,['BM-04']
+Abia,South East,Vegetables,369.9,42.0,Market,7.8,3104932.0,3.9,1576216.0,"['BM-02', 'BM-07']"
+Anambra,South East,Maize,552.4,29.8,Harvesting,24.7,5687825.0,16.0,3668533.0,"['BM-01', 'BM-06']"
+Anambra,South East,Maize,552.4,29.8,Processing,41.2,9479709.0,21.9,5040745.0,"['BM-01', 'BM-03']"
+Anambra,South East,Maize,552.4,29.8,Storage,57.7,13271593.0,29.6,6809433.0,"['BM-02', 'BM-05']"
+Anambra,South East,Maize,552.4,29.8,Transportation,33.0,7583767.0,17.8,4086164.0,['BM-04']
+Anambra,South East,Maize,552.4,29.8,Market,8.2,1895942.0,4.0,929795.0,"['BM-02', 'BM-07']"
+Anambra,South East,Rice,527.5,35.0,Harvesting,27.7,18012131.0,13.0,8459646.0,"['BM-01', 'BM-06']"
+Anambra,South East,Rice,527.5,35.0,Processing,46.2,30020219.0,30.9,20109715.0,"['BM-01', 'BM-03']"
+Anambra,South East,Rice,527.5,35.0,Storage,64.7,42028306.0,33.3,21651612.0,"['BM-02', 'BM-05']"
+Anambra,South East,Rice,527.5,35.0,Transportation,36.9,24016175.0,20.8,13522688.0,['BM-04']
+Anambra,South East,Rice,527.5,35.0,Market,9.2,6004044.0,6.2,4034367.0,"['BM-02', 'BM-07']"
+Anambra,South East,Sorghum,105.0,23.8,Harvesting,3.8,750213.0,2.6,511607.0,"['BM-01', 'BM-06']"
+Anambra,South East,Sorghum,105.0,23.8,Processing,6.3,1250355.0,3.7,735599.0,"['BM-01', 'BM-03']"
+Anambra,South East,Sorghum,105.0,23.8,Storage,8.8,1750496.0,4.4,876074.0,"['BM-02', 'BM-05']"
+Anambra,South East,Sorghum,105.0,23.8,Transportation,5.0,1000284.0,2.2,441907.0,['BM-04']
+Anambra,South East,Sorghum,105.0,23.8,Market,1.3,250071.0,0.8,159597.0,"['BM-02', 'BM-07']"
+Anambra,South East,Millet,47.2,22.5,Harvesting,1.6,287140.0,1.1,191858.0,"['BM-01', 'BM-06']"
+Anambra,South East,Millet,47.2,22.5,Processing,2.7,478567.0,1.7,304646.0,"['BM-01', 'BM-03']"
+Anambra,South East,Millet,47.2,22.5,Storage,3.7,669994.0,1.7,298484.0,"['BM-02', 'BM-05']"
+Anambra,South East,Millet,47.2,22.5,Transportation,2.1,382854.0,1.0,188945.0,['BM-04']
+Anambra,South East,Millet,47.2,22.5,Market,0.5,95713.0,0.3,45421.0,"['BM-02', 'BM-07']"
+Anambra,South East,Vegetables,461.0,40.8,Harvesting,28.2,11285359.0,16.1,6443566.0,"['BM-01', 'BM-06']"
+Anambra,South East,Vegetables,461.0,40.8,Processing,47.0,18808932.0,29.6,11825883.0,"['BM-01', 'BM-03']"
+Anambra,South East,Vegetables,461.0,40.8,Storage,65.8,26332504.0,43.6,17459232.0,"['BM-02', 'BM-05']"
+Anambra,South East,Vegetables,461.0,40.8,Transportation,37.6,15047145.0,18.9,7563064.0,['BM-04']
+Anambra,South East,Vegetables,461.0,40.8,Market,9.4,3761786.0,6.1,2431533.0,"['BM-02', 'BM-07']"
+Ebonyi,South East,Maize,405.2,32.6,Harvesting,19.8,4559617.0,8.7,1998236.0,"['BM-01', 'BM-06']"
+Ebonyi,South East,Maize,405.2,32.6,Processing,33.0,7599361.0,17.2,3945483.0,"['BM-01', 'BM-03']"
+Ebonyi,South East,Maize,405.2,32.6,Storage,46.3,10639105.0,29.6,6800395.0,"['BM-02', 'BM-05']"
+Ebonyi,South East,Maize,405.2,32.6,Transportation,26.4,6079489.0,11.8,2705222.0,['BM-04']
+Ebonyi,South East,Maize,405.2,32.6,Market,6.6,1519872.0,3.1,712479.0,"['BM-02', 'BM-07']"
+Ebonyi,South East,Rice,522.7,36.5,Harvesting,28.6,18621122.0,17.0,11030115.0,"['BM-01', 'BM-06']"
+Ebonyi,South East,Rice,522.7,36.5,Processing,47.7,31035203.0,29.0,18875131.0,"['BM-01', 'BM-03']"
+Ebonyi,South East,Rice,522.7,36.5,Storage,66.8,43449284.0,37.6,24454010.0,"['BM-02', 'BM-05']"
+Ebonyi,South East,Rice,522.7,36.5,Transportation,38.2,24828163.0,18.2,11806777.0,['BM-04']
+Ebonyi,South East,Rice,522.7,36.5,Market,9.5,6207041.0,4.8,3126541.0,"['BM-02', 'BM-07']"
+Ebonyi,South East,Sorghum,87.3,27.9,Harvesting,3.7,730598.0,2.1,420107.0,"['BM-01', 'BM-06']"
+Ebonyi,South East,Sorghum,87.3,27.9,Processing,6.1,1217663.0,3.2,633496.0,"['BM-01', 'BM-03']"
+Ebonyi,South East,Sorghum,87.3,27.9,Storage,8.5,1704729.0,4.6,918170.0,"['BM-02', 'BM-05']"
+Ebonyi,South East,Sorghum,87.3,27.9,Transportation,4.9,974131.0,3.3,666486.0,['BM-04']
+Ebonyi,South East,Sorghum,87.3,27.9,Market,1.2,243533.0,0.5,108617.0,"['BM-02', 'BM-07']"
+Ebonyi,South East,Millet,46.6,22.4,Harvesting,1.6,281879.0,0.9,164458.0,"['BM-01', 'BM-06']"
+Ebonyi,South East,Millet,46.6,22.4,Processing,2.6,469798.0,1.1,190472.0,"['BM-01', 'BM-03']"
+Ebonyi,South East,Millet,46.6,22.4,Storage,3.7,657717.0,2.4,435170.0,"['BM-02', 'BM-05']"
+Ebonyi,South East,Millet,46.6,22.4,Transportation,2.1,375839.0,1.4,255433.0,['BM-04']
+Ebonyi,South East,Millet,46.6,22.4,Market,0.5,93960.0,0.3,53514.0,"['BM-02', 'BM-07']"
+Ebonyi,South East,Vegetables,453.0,48.8,Harvesting,33.2,13265611.0,20.3,8120830.0,"['BM-01', 'BM-06']"
+Ebonyi,South East,Vegetables,453.0,48.8,Processing,55.3,22109352.0,24.6,9855503.0,"['BM-01', 'BM-03']"
+Ebonyi,South East,Vegetables,453.0,48.8,Storage,77.4,30953093.0,44.3,17732609.0,"['BM-02', 'BM-05']"
+Ebonyi,South East,Vegetables,453.0,48.8,Transportation,44.2,17687482.0,25.7,10294371.0,['BM-04']
+Ebonyi,South East,Vegetables,453.0,48.8,Market,11.1,4421870.0,5.8,2331383.0,"['BM-02', 'BM-07']"
+Enugu,South East,Maize,525.4,33.1,Harvesting,26.1,6008772.0,17.7,4071968.0,"['BM-01', 'BM-06']"
+Enugu,South East,Maize,525.4,33.1,Processing,43.5,10014620.0,23.3,5360344.0,"['BM-01', 'BM-03']"
+Enugu,South East,Maize,525.4,33.1,Storage,61.0,14020468.0,26.5,6084482.0,"['BM-02', 'BM-05']"
+Enugu,South East,Maize,525.4,33.1,Transportation,34.8,8011696.0,24.2,5571753.0,['BM-04']
+Enugu,South East,Maize,525.4,33.1,Market,8.7,2002924.0,5.7,1305244.0,"['BM-02', 'BM-07']"
+Enugu,South East,Rice,407.9,37.9,Harvesting,23.2,15092480.0,15.3,9975660.0,"['BM-01', 'BM-06']"
+Enugu,South East,Rice,407.9,37.9,Processing,38.7,25154134.0,21.5,13976930.0,"['BM-01', 'BM-03']"
+Enugu,South East,Rice,407.9,37.9,Storage,54.2,35215787.0,31.3,20332984.0,"['BM-02', 'BM-05']"
+Enugu,South East,Rice,407.9,37.9,Transportation,31.0,20123307.0,16.1,10458099.0,['BM-04']
+Enugu,South East,Rice,407.9,37.9,Market,7.7,5030827.0,3.2,2094980.0,"['BM-02', 'BM-07']"
+Enugu,South East,Sorghum,93.4,27.4,Harvesting,3.8,766768.0,1.5,307773.0,"['BM-01', 'BM-06']"
+Enugu,South East,Sorghum,93.4,27.4,Processing,6.4,1277947.0,3.2,639037.0,"['BM-01', 'BM-03']"
+Enugu,South East,Sorghum,93.4,27.4,Storage,8.9,1789126.0,4.6,929363.0,"['BM-02', 'BM-05']"
+Enugu,South East,Sorghum,93.4,27.4,Transportation,5.1,1022358.0,2.9,573766.0,['BM-04']
+Enugu,South East,Sorghum,93.4,27.4,Market,1.3,255589.0,0.9,172767.0,"['BM-02', 'BM-07']"
+Enugu,South East,Millet,42.2,21.7,Harvesting,1.4,247614.0,0.9,153830.0,"['BM-01', 'BM-06']"
+Enugu,South East,Millet,42.2,21.7,Processing,2.3,412690.0,1.2,221064.0,"['BM-01', 'BM-03']"
+Enugu,South East,Millet,42.2,21.7,Storage,3.2,577766.0,1.5,270037.0,"['BM-02', 'BM-05']"
+Enugu,South East,Millet,42.2,21.7,Transportation,1.8,330152.0,1.0,176873.0,['BM-04']
+Enugu,South East,Millet,42.2,21.7,Market,0.5,82538.0,0.2,36503.0,"['BM-02', 'BM-07']"
+Enugu,South East,Vegetables,365.6,45.0,Harvesting,24.7,9868869.0,13.0,5187844.0,"['BM-01', 'BM-06']"
+Enugu,South East,Vegetables,365.6,45.0,Processing,41.1,16448114.0,27.7,11093493.0,"['BM-01', 'BM-03']"
+Enugu,South East,Vegetables,365.6,45.0,Storage,57.6,23027360.0,29.3,11714437.0,"['BM-02', 'BM-05']"
+Enugu,South East,Vegetables,365.6,45.0,Transportation,32.9,13158492.0,18.9,7555297.0,['BM-04']
+Enugu,South East,Vegetables,365.6,45.0,Market,8.2,3289623.0,4.8,1939822.0,"['BM-02', 'BM-07']"
+Imo,South East,Maize,386.5,31.5,Harvesting,18.3,4200119.0,8.3,1904379.0,"['BM-01', 'BM-06']"
+Imo,South East,Maize,386.5,31.5,Processing,30.4,7000199.0,20.9,4818385.0,"['BM-01', 'BM-03']"
+Imo,South East,Maize,386.5,31.5,Storage,42.6,9800279.0,18.9,4357192.0,"['BM-02', 'BM-05']"
+Imo,South East,Maize,386.5,31.5,Transportation,24.3,5600159.0,12.8,2936652.0,['BM-04']
+Imo,South East,Maize,386.5,31.5,Market,6.1,1400040.0,2.6,595864.0,"['BM-02', 'BM-07']"
+Imo,South East,Rice,575.4,35.0,Harvesting,30.2,19644140.0,17.5,11366404.0,"['BM-01', 'BM-06']"
+Imo,South East,Rice,575.4,35.0,Processing,50.4,32740234.0,21.2,13754923.0,"['BM-01', 'BM-03']"
+Imo,South East,Rice,575.4,35.0,Storage,70.5,45836327.0,44.1,28647161.0,"['BM-02', 'BM-05']"
+Imo,South East,Rice,575.4,35.0,Transportation,40.3,26192187.0,18.7,12126241.0,['BM-04']
+Imo,South East,Rice,575.4,35.0,Market,10.1,6548047.0,6.7,4383369.0,"['BM-02', 'BM-07']"
+Imo,South East,Sorghum,88.2,24.2,Harvesting,3.2,640477.0,1.3,263214.0,"['BM-01', 'BM-06']"
+Imo,South East,Sorghum,88.2,24.2,Processing,5.3,1067462.0,2.9,578159.0,"['BM-01', 'BM-03']"
+Imo,South East,Sorghum,88.2,24.2,Storage,7.5,1494446.0,4.3,851016.0,"['BM-02', 'BM-05']"
+Imo,South East,Sorghum,88.2,24.2,Transportation,4.3,853969.0,1.8,358422.0,['BM-04']
+Imo,South East,Sorghum,88.2,24.2,Market,1.1,213492.0,0.7,135068.0,"['BM-02', 'BM-07']"
+Imo,South East,Millet,44.2,22.5,Harvesting,1.5,268378.0,0.8,142838.0,"['BM-01', 'BM-06']"
+Imo,South East,Millet,44.2,22.5,Processing,2.5,447296.0,1.3,232696.0,"['BM-01', 'BM-03']"
+Imo,South East,Millet,44.2,22.5,Storage,3.5,626214.0,2.0,355622.0,"['BM-02', 'BM-05']"
+Imo,South East,Millet,44.2,22.5,Transportation,2.0,357837.0,0.9,159800.0,['BM-04']
+Imo,South East,Millet,44.2,22.5,Market,0.5,89459.0,0.2,40666.0,"['BM-02', 'BM-07']"
+Imo,South East,Vegetables,480.8,49.0,Harvesting,35.3,14139270.0,18.1,7239204.0,"['BM-01', 'BM-06']"
+Imo,South East,Vegetables,480.8,49.0,Processing,58.9,23565450.0,28.4,11340246.0,"['BM-01', 'BM-03']"
+Imo,South East,Vegetables,480.8,49.0,Storage,82.5,32991630.0,48.9,19570630.0,"['BM-02', 'BM-05']"
+Imo,South East,Vegetables,480.8,49.0,Transportation,47.1,18852360.0,24.6,9852625.0,['BM-04']
+Imo,South East,Vegetables,480.8,49.0,Market,11.8,4713090.0,4.8,1921130.0,"['BM-02', 'BM-07']"
+Akwa Ibom,South South,Maize,345.0,31.8,Harvesting,16.5,3786899.0,9.8,2263343.0,"['BM-01', 'BM-06']"
+Akwa Ibom,South South,Maize,345.0,31.8,Processing,27.4,6311498.0,11.2,2575904.0,"['BM-01', 'BM-03']"
+Akwa Ibom,South South,Maize,345.0,31.8,Storage,38.4,8836097.0,17.9,4122849.0,"['BM-02', 'BM-05']"
+Akwa Ibom,South South,Maize,345.0,31.8,Transportation,22.0,5049198.0,10.3,2369702.0,['BM-04']
+Akwa Ibom,South South,Maize,345.0,31.8,Market,5.5,1262300.0,3.3,759359.0,"['BM-02', 'BM-07']"
+Akwa Ibom,South South,Rice,533.2,32.2,Harvesting,25.8,16754878.0,16.5,10722700.0,"['BM-01', 'BM-06']"
+Akwa Ibom,South South,Rice,533.2,32.2,Processing,43.0,27924797.0,19.5,12665666.0,"['BM-01', 'BM-03']"
+Akwa Ibom,South South,Rice,533.2,32.2,Storage,60.1,39094715.0,35.8,23293563.0,"['BM-02', 'BM-05']"
+Akwa Ibom,South South,Rice,533.2,32.2,Transportation,34.4,22339837.0,16.2,10532224.0,['BM-04']
+Akwa Ibom,South South,Rice,533.2,32.2,Market,8.6,5584959.0,3.7,2400597.0,"['BM-02', 'BM-07']"
+Akwa Ibom,South South,Sorghum,44.9,26.9,Harvesting,1.8,362679.0,1.2,238175.0,"['BM-01', 'BM-06']"
+Akwa Ibom,South South,Sorghum,44.9,26.9,Processing,3.0,604465.0,2.0,392338.0,"['BM-01', 'BM-03']"
+Akwa Ibom,South South,Sorghum,44.9,26.9,Storage,4.2,846251.0,2.2,439336.0,"['BM-02', 'BM-05']"
+Akwa Ibom,South South,Sorghum,44.9,26.9,Transportation,2.4,483572.0,1.5,290349.0,['BM-04']
+Akwa Ibom,South South,Sorghum,44.9,26.9,Market,0.6,120893.0,0.3,55792.0,"['BM-02', 'BM-07']"
+Akwa Ibom,South South,Millet,41.3,24.2,Harvesting,1.5,269430.0,0.6,108823.0,"['BM-01', 'BM-06']"
+Akwa Ibom,South South,Millet,41.3,24.2,Processing,2.5,449049.0,1.1,191139.0,"['BM-01', 'BM-03']"
+Akwa Ibom,South South,Millet,41.3,24.2,Storage,3.5,628669.0,1.6,290675.0,"['BM-02', 'BM-05']"
+Akwa Ibom,South South,Millet,41.3,24.2,Transportation,2.0,359239.0,0.8,146555.0,['BM-04']
+Akwa Ibom,South South,Millet,41.3,24.2,Market,0.5,89810.0,0.2,40812.0,"['BM-02', 'BM-07']"
+Akwa Ibom,South South,Vegetables,470.1,44.3,Harvesting,31.2,12493594.0,20.9,8343241.0,"['BM-01', 'BM-06']"
+Akwa Ibom,South South,Vegetables,470.1,44.3,Processing,52.1,20822656.0,33.6,13435466.0,"['BM-01', 'BM-03']"
+Akwa Ibom,South South,Vegetables,470.1,44.3,Storage,72.9,29151718.0,36.6,14650056.0,"['BM-02', 'BM-05']"
+Akwa Ibom,South South,Vegetables,470.1,44.3,Transportation,41.6,16658125.0,19.9,7959702.0,['BM-04']
+Akwa Ibom,South South,Vegetables,470.1,44.3,Market,10.4,4164531.0,5.4,2140185.0,"['BM-02', 'BM-07']"
+Bayelsa,South South,Maize,414.4,29.1,Harvesting,18.1,4158725.0,10.6,2442189.0,"['BM-01', 'BM-06']"
+Bayelsa,South South,Maize,414.4,29.1,Processing,30.1,6931208.0,15.8,3623798.0,"['BM-01', 'BM-03']"
+Bayelsa,South South,Maize,414.4,29.1,Storage,42.2,9703691.0,23.9,5488545.0,"['BM-02', 'BM-05']"
+Bayelsa,South South,Maize,414.4,29.1,Transportation,24.1,5544966.0,12.8,2943479.0,['BM-04']
+Bayelsa,South South,Maize,414.4,29.1,Market,6.0,1386242.0,2.9,676957.0,"['BM-02', 'BM-07']"
+Bayelsa,South South,Rice,778.4,36.8,Harvesting,43.0,27963028.0,19.0,12360608.0,"['BM-01', 'BM-06']"
+Bayelsa,South South,Rice,778.4,36.8,Processing,71.7,46605046.0,47.4,30784516.0,"['BM-01', 'BM-03']"
+Bayelsa,South South,Rice,778.4,36.8,Storage,100.4,65247065.0,54.8,35639862.0,"['BM-02', 'BM-05']"
+Bayelsa,South South,Rice,778.4,36.8,Transportation,57.4,37284037.0,38.3,24919370.0,['BM-04']
+Bayelsa,South South,Rice,778.4,36.8,Market,14.3,9321009.0,9.2,5965041.0,"['BM-02', 'BM-07']"
+Bayelsa,South South,Sorghum,48.5,23.3,Harvesting,1.7,339568.0,0.8,163197.0,"['BM-01', 'BM-06']"
+Bayelsa,South South,Sorghum,48.5,23.3,Processing,2.8,565946.0,1.6,318339.0,"['BM-01', 'BM-03']"
+Bayelsa,South South,Sorghum,48.5,23.3,Storage,4.0,792325.0,2.3,467506.0,"['BM-02', 'BM-05']"
+Bayelsa,South South,Sorghum,48.5,23.3,Transportation,2.3,452757.0,1.1,216131.0,['BM-04']
+Bayelsa,South South,Sorghum,48.5,23.3,Market,0.6,113189.0,0.3,50008.0,"['BM-02', 'BM-07']"
+Bayelsa,South South,Millet,51.0,24.6,Harvesting,1.9,338521.0,1.0,188796.0,"['BM-01', 'BM-06']"
+Bayelsa,South South,Millet,51.0,24.6,Processing,3.1,564202.0,1.4,254739.0,"['BM-01', 'BM-03']"
+Bayelsa,South South,Millet,51.0,24.6,Storage,4.4,789883.0,2.1,380480.0,"['BM-02', 'BM-05']"
+Bayelsa,South South,Millet,51.0,24.6,Transportation,2.5,451362.0,1.0,183035.0,['BM-04']
+Bayelsa,South South,Millet,51.0,24.6,Market,0.6,112840.0,0.4,76087.0,"['BM-02', 'BM-07']"
+Bayelsa,South South,Vegetables,385.4,45.7,Harvesting,26.4,10565885.0,12.7,5095045.0,"['BM-01', 'BM-06']"
+Bayelsa,South South,Vegetables,385.4,45.7,Processing,44.0,17609808.0,24.9,9971613.0,"['BM-01', 'BM-03']"
+Bayelsa,South South,Vegetables,385.4,45.7,Storage,61.6,24653731.0,36.7,14679475.0,"['BM-02', 'BM-05']"
+Bayelsa,South South,Vegetables,385.4,45.7,Transportation,35.2,14087846.0,22.9,9141921.0,['BM-04']
+Bayelsa,South South,Vegetables,385.4,45.7,Market,8.8,3521962.0,4.1,1626887.0,"['BM-02', 'BM-07']"
+Cross River,South South,Maize,321.8,28.3,Harvesting,13.7,3139832.0,9.1,2103705.0,"['BM-01', 'BM-06']"
+Cross River,South South,Maize,321.8,28.3,Processing,22.8,5233054.0,15.1,3465156.0,"['BM-01', 'BM-03']"
+Cross River,South South,Maize,321.8,28.3,Storage,31.9,7326276.0,18.5,4243554.0,"['BM-02', 'BM-05']"
+Cross River,South South,Maize,321.8,28.3,Transportation,18.2,4186443.0,10.6,2428786.0,['BM-04']
+Cross River,South South,Maize,321.8,28.3,Market,4.6,1046611.0,2.7,627455.0,"['BM-02', 'BM-07']"
+Cross River,South South,Rice,574.3,37.9,Harvesting,32.6,21222242.0,17.2,11155072.0,"['BM-01', 'BM-06']"
+Cross River,South South,Rice,574.3,37.9,Processing,54.4,35370404.0,28.0,18213691.0,"['BM-01', 'BM-03']"
+Cross River,South South,Rice,574.3,37.9,Storage,76.2,49518565.0,42.3,27516244.0,"['BM-02', 'BM-05']"
+Cross River,South South,Rice,574.3,37.9,Transportation,43.5,28296323.0,18.0,11717218.0,['BM-04']
+Cross River,South South,Rice,574.3,37.9,Market,10.9,7074081.0,4.9,3182523.0,"['BM-02', 'BM-07']"
+Cross River,South South,Sorghum,54.8,23.6,Harvesting,1.9,388482.0,1.1,225687.0,"['BM-01', 'BM-06']"
+Cross River,South South,Sorghum,54.8,23.6,Processing,3.2,647469.0,1.5,306645.0,"['BM-01', 'BM-03']"
+Cross River,South South,Sorghum,54.8,23.6,Storage,4.5,906457.0,2.3,468447.0,"['BM-02', 'BM-05']"
+Cross River,South South,Sorghum,54.8,23.6,Transportation,2.6,517976.0,1.3,252051.0,['BM-04']
+Cross River,South South,Sorghum,54.8,23.6,Market,0.6,129494.0,0.3,65615.0,"['BM-02', 'BM-07']"
+Cross River,South South,Millet,48.9,21.5,Harvesting,1.6,283996.0,0.9,161855.0,"['BM-01', 'BM-06']"
+Cross River,South South,Millet,48.9,21.5,Processing,2.6,473326.0,1.4,256928.0,"['BM-01', 'BM-03']"
+Cross River,South South,Millet,48.9,21.5,Storage,3.7,662656.0,2.2,396998.0,"['BM-02', 'BM-05']"
+Cross River,South South,Millet,48.9,21.5,Transportation,2.1,378661.0,1.4,257886.0,['BM-04']
+Cross River,South South,Millet,48.9,21.5,Market,0.5,94665.0,0.3,58671.0,"['BM-02', 'BM-07']"
+Cross River,South South,Vegetables,403.1,40.8,Harvesting,24.7,9863676.0,11.8,4721537.0,"['BM-01', 'BM-06']"
+Cross River,South South,Vegetables,403.1,40.8,Processing,41.1,16439460.0,23.8,9510612.0,"['BM-01', 'BM-03']"
+Cross River,South South,Vegetables,403.1,40.8,Storage,57.5,23015244.0,23.9,9561171.0,"['BM-02', 'BM-05']"
+Cross River,South South,Vegetables,403.1,40.8,Transportation,32.9,13151568.0,18.0,7219026.0,['BM-04']
+Cross River,South South,Vegetables,403.1,40.8,Market,8.2,3287892.0,4.8,1903863.0,"['BM-02', 'BM-07']"
+Delta,South South,Maize,373.5,32.2,Harvesting,18.0,4142866.0,7.8,1789633.0,"['BM-01', 'BM-06']"
+Delta,South South,Maize,373.5,32.2,Processing,30.0,6904777.0,12.7,2917554.0,"['BM-01', 'BM-03']"
+Delta,South South,Maize,373.5,32.2,Storage,42.0,9666688.0,26.0,5978427.0,"['BM-02', 'BM-05']"
+Delta,South South,Maize,373.5,32.2,Transportation,24.0,5523822.0,13.2,3030630.0,['BM-04']
+Delta,South South,Maize,373.5,32.2,Market,6.0,1380955.0,3.6,837578.0,"['BM-02', 'BM-07']"
+Delta,South South,Rice,642.8,33.2,Harvesting,32.0,20822807.0,20.7,13445926.0,"['BM-01', 'BM-06']"
+Delta,South South,Rice,642.8,33.2,Processing,53.4,34704678.0,34.2,22204913.0,"['BM-01', 'BM-03']"
+Delta,South South,Rice,642.8,33.2,Storage,74.7,48586550.0,45.5,29560491.0,"['BM-02', 'BM-05']"
+Delta,South South,Rice,642.8,33.2,Transportation,42.7,27763743.0,20.6,13372227.0,['BM-04']
+Delta,South South,Rice,642.8,33.2,Market,10.7,6940936.0,6.2,4005400.0,"['BM-02', 'BM-07']"
+Delta,South South,Sorghum,47.2,23.7,Harvesting,1.7,335625.0,1.1,226612.0,"['BM-01', 'BM-06']"
+Delta,South South,Sorghum,47.2,23.7,Processing,2.8,559375.0,1.2,246710.0,"['BM-01', 'BM-03']"
+Delta,South South,Sorghum,47.2,23.7,Storage,3.9,783125.0,2.7,536497.0,"['BM-02', 'BM-05']"
+Delta,South South,Sorghum,47.2,23.7,Transportation,2.2,447500.0,1.2,238876.0,['BM-04']
+Delta,South South,Sorghum,47.2,23.7,Market,0.6,111875.0,0.3,50964.0,"['BM-02', 'BM-07']"
+Delta,South South,Millet,45.8,24.1,Harvesting,1.7,297362.0,1.0,184266.0,"['BM-01', 'BM-06']"
+Delta,South South,Millet,45.8,24.1,Processing,2.8,495603.0,1.8,318162.0,"['BM-01', 'BM-03']"
+Delta,South South,Millet,45.8,24.1,Storage,3.9,693845.0,2.3,414666.0,"['BM-02', 'BM-05']"
+Delta,South South,Millet,45.8,24.1,Transportation,2.2,396483.0,1.3,240936.0,['BM-04']
+Delta,South South,Millet,45.8,24.1,Market,0.6,99121.0,0.4,64900.0,"['BM-02', 'BM-07']"
+Delta,South South,Vegetables,409.4,44.9,Harvesting,27.6,11031487.0,12.9,5144676.0,"['BM-01', 'BM-06']"
+Delta,South South,Vegetables,409.4,44.9,Processing,46.0,18385812.0,32.0,12802049.0,"['BM-01', 'BM-03']"
+Delta,South South,Vegetables,409.4,44.9,Storage,64.4,25740137.0,44.0,17586120.0,"['BM-02', 'BM-05']"
+Delta,South South,Vegetables,409.4,44.9,Transportation,36.8,14708650.0,15.1,6057435.0,['BM-04']
+Delta,South South,Vegetables,409.4,44.9,Market,9.2,3677162.0,5.6,2249219.0,"['BM-02', 'BM-07']"
+Edo,South South,Maize,468.0,28.6,Harvesting,20.0,4610318.0,11.4,2629650.0,"['BM-01', 'BM-06']"
+Edo,South South,Maize,468.0,28.6,Processing,33.4,7683863.0,22.5,5183892.0,"['BM-01', 'BM-03']"
+Edo,South South,Maize,468.0,28.6,Storage,46.8,10757409.0,19.2,4412515.0,"['BM-02', 'BM-05']"
+Edo,South South,Maize,468.0,28.6,Transportation,26.7,6147091.0,16.3,3744968.0,['BM-04']
+Edo,South South,Maize,468.0,28.6,Market,6.7,1536773.0,3.3,751796.0,"['BM-02', 'BM-07']"
+Edo,South South,Rice,772.0,38.3,Harvesting,44.4,28827975.0,30.3,19697577.0,"['BM-01', 'BM-06']"
+Edo,South South,Rice,772.0,38.3,Processing,73.9,48046624.0,40.1,26053967.0,"['BM-01', 'BM-03']"
+Edo,South South,Rice,772.0,38.3,Storage,103.5,67265274.0,68.2,44301770.0,"['BM-02', 'BM-05']"
+Edo,South South,Rice,772.0,38.3,Transportation,59.1,38437300.0,38.6,25113579.0,['BM-04']
+Edo,South South,Rice,772.0,38.3,Market,14.8,9609325.0,7.3,4763632.0,"['BM-02', 'BM-07']"
+Edo,South South,Sorghum,56.6,23.4,Harvesting,2.0,397366.0,1.2,230027.0,"['BM-01', 'BM-06']"
+Edo,South South,Sorghum,56.6,23.4,Processing,3.3,662276.0,1.6,310609.0,"['BM-01', 'BM-03']"
+Edo,South South,Sorghum,56.6,23.4,Storage,4.6,927187.0,2.0,404411.0,"['BM-02', 'BM-05']"
+Edo,South South,Sorghum,56.6,23.4,Transportation,2.6,529821.0,1.1,224160.0,['BM-04']
+Edo,South South,Sorghum,56.6,23.4,Market,0.7,132455.0,0.4,80650.0,"['BM-02', 'BM-07']"
+Edo,South South,Millet,42.1,23.4,Harvesting,1.5,266179.0,0.6,111691.0,"['BM-01', 'BM-06']"
+Edo,South South,Millet,42.1,23.4,Processing,2.5,443632.0,1.2,219415.0,"['BM-01', 'BM-03']"
+Edo,South South,Millet,42.1,23.4,Storage,3.5,621084.0,1.9,348955.0,"['BM-02', 'BM-05']"
+Edo,South South,Millet,42.1,23.4,Transportation,2.0,354905.0,1.3,226152.0,['BM-04']
+Edo,South South,Millet,42.1,23.4,Market,0.5,88726.0,0.2,43975.0,"['BM-02', 'BM-07']"
+Edo,South South,Vegetables,477.9,48.5,Harvesting,34.7,13899733.0,20.3,8127993.0,"['BM-01', 'BM-06']"
+Edo,South South,Vegetables,477.9,48.5,Processing,57.9,23166222.0,27.2,10885526.0,"['BM-01', 'BM-03']"
+Edo,South South,Vegetables,477.9,48.5,Storage,81.1,32432710.0,33.0,13210499.0,"['BM-02', 'BM-05']"
+Edo,South South,Vegetables,477.9,48.5,Transportation,46.3,18532977.0,30.6,12250848.0,['BM-04']
+Edo,South South,Vegetables,477.9,48.5,Market,11.6,4633244.0,4.7,1882862.0,"['BM-02', 'BM-07']"
+Rivers,South South,Maize,460.0,30.7,Harvesting,21.2,4867858.0,14.4,3318518.0,"['BM-01', 'BM-06']"
+Rivers,South South,Maize,460.0,30.7,Processing,35.3,8113097.0,22.6,5189420.0,"['BM-01', 'BM-03']"
+Rivers,South South,Maize,460.0,30.7,Storage,49.4,11358335.0,34.5,7943795.0,"['BM-02', 'BM-05']"
+Rivers,South South,Maize,460.0,30.7,Transportation,28.2,6490477.0,14.3,3279077.0,['BM-04']
+Rivers,South South,Maize,460.0,30.7,Market,7.1,1622619.0,4.4,1022504.0,"['BM-02', 'BM-07']"
+Rivers,South South,Rice,634.1,34.9,Harvesting,33.2,21551901.0,19.5,12677941.0,"['BM-01', 'BM-06']"
+Rivers,South South,Rice,634.1,34.9,Processing,55.3,35919836.0,36.6,23782636.0,"['BM-01', 'BM-03']"
+Rivers,South South,Rice,634.1,34.9,Storage,77.4,50287770.0,53.8,34961317.0,"['BM-02', 'BM-05']"
+Rivers,South South,Rice,634.1,34.9,Transportation,44.2,28735868.0,27.9,18117448.0,['BM-04']
+Rivers,South South,Rice,634.1,34.9,Market,11.1,7183967.0,5.8,3773954.0,"['BM-02', 'BM-07']"
+Rivers,South South,Sorghum,48.4,27.0,Harvesting,2.0,392636.0,0.9,185180.0,"['BM-01', 'BM-06']"
+Rivers,South South,Sorghum,48.4,27.0,Processing,3.3,654394.0,1.4,283446.0,"['BM-01', 'BM-03']"
+Rivers,South South,Sorghum,48.4,27.0,Storage,4.6,916152.0,2.3,463927.0,"['BM-02', 'BM-05']"
+Rivers,South South,Sorghum,48.4,27.0,Transportation,2.6,523515.0,1.3,254518.0,['BM-04']
+Rivers,South South,Sorghum,48.4,27.0,Market,0.7,130879.0,0.3,63986.0,"['BM-02', 'BM-07']"
+Rivers,South South,Millet,40.2,20.3,Harvesting,1.2,220891.0,0.5,89541.0,"['BM-01', 'BM-06']"
+Rivers,South South,Millet,40.2,20.3,Processing,2.0,368151.0,1.4,256350.0,"['BM-01', 'BM-03']"
+Rivers,South South,Millet,40.2,20.3,Storage,2.9,515411.0,1.5,272308.0,"['BM-02', 'BM-05']"
+Rivers,South South,Millet,40.2,20.3,Transportation,1.6,294521.0,0.8,151766.0,['BM-04']
+Rivers,South South,Millet,40.2,20.3,Market,0.4,73630.0,0.2,44465.0,"['BM-02', 'BM-07']"
+Rivers,South South,Vegetables,403.7,49.0,Harvesting,29.7,11881460.0,18.9,7555462.0,"['BM-01', 'BM-06']"
+Rivers,South South,Vegetables,403.7,49.0,Processing,49.5,19802433.0,21.1,8452140.0,"['BM-01', 'BM-03']"
+Rivers,South South,Vegetables,403.7,49.0,Storage,69.3,27723407.0,36.4,14562391.0,"['BM-02', 'BM-05']"
+Rivers,South South,Vegetables,403.7,49.0,Transportation,39.6,15841947.0,26.3,10514862.0,['BM-04']
+Rivers,South South,Vegetables,403.7,49.0,Market,9.9,3960487.0,6.8,2706674.0,"['BM-02', 'BM-07']"
+Ekiti,South West,Maize,710.6,31.2,Harvesting,33.2,7647016.0,15.0,3442000.0,"['BM-01', 'BM-06']"
+Ekiti,South West,Maize,710.6,31.2,Processing,55.4,12745026.0,38.6,8887751.0,"['BM-01', 'BM-03']"
+Ekiti,South West,Maize,710.6,31.2,Storage,77.6,17843037.0,36.4,8377333.0,"['BM-02', 'BM-05']"
+Ekiti,South West,Maize,710.6,31.2,Transportation,44.3,10196021.0,30.3,6962042.0,['BM-04']
+Ekiti,South West,Maize,710.6,31.2,Market,11.1,2549005.0,6.6,1516388.0,"['BM-02', 'BM-07']"
+Ekiti,South West,Rice,375.5,35.1,Harvesting,19.8,12846938.0,9.3,6027795.0,"['BM-01', 'BM-06']"
+Ekiti,South West,Rice,375.5,35.1,Processing,32.9,21411563.0,14.9,9698548.0,"['BM-01', 'BM-03']"
+Ekiti,South West,Rice,375.5,35.1,Storage,46.1,29976188.0,21.5,13973276.0,"['BM-02', 'BM-05']"
+Ekiti,South West,Rice,375.5,35.1,Transportation,26.4,17129250.0,12.0,7809764.0,['BM-04']
+Ekiti,South West,Rice,375.5,35.1,Market,6.6,4282313.0,4.2,2714452.0,"['BM-02', 'BM-07']"
+Ekiti,South West,Sorghum,141.0,23.5,Harvesting,5.0,994884.0,3.4,687197.0,"['BM-01', 'BM-06']"
+Ekiti,South West,Sorghum,141.0,23.5,Processing,8.3,1658140.0,5.5,1102888.0,"['BM-01', 'BM-03']"
+Ekiti,South West,Sorghum,141.0,23.5,Storage,11.6,2321397.0,7.9,1574663.0,"['BM-02', 'BM-05']"
+Ekiti,South West,Sorghum,141.0,23.5,Transportation,6.6,1326512.0,4.6,926532.0,['BM-04']
+Ekiti,South West,Sorghum,141.0,23.5,Market,1.7,331628.0,0.7,149952.0,"['BM-02', 'BM-07']"
+Ekiti,South West,Millet,86.3,23.6,Harvesting,3.0,548675.0,1.9,334037.0,"['BM-01', 'BM-06']"
+Ekiti,South West,Millet,86.3,23.6,Processing,5.1,914458.0,2.3,408003.0,"['BM-01', 'BM-03']"
+Ekiti,South West,Millet,86.3,23.6,Storage,7.1,1280242.0,4.6,825436.0,"['BM-02', 'BM-05']"
+Ekiti,South West,Millet,86.3,23.6,Transportation,4.1,731567.0,1.9,341885.0,['BM-04']
+Ekiti,South West,Millet,86.3,23.6,Market,1.0,182892.0,0.5,85437.0,"['BM-02', 'BM-07']"
+Ekiti,South West,Vegetables,532.8,45.8,Harvesting,36.6,14652027.0,21.0,8410642.0,"['BM-01', 'BM-06']"
+Ekiti,South West,Vegetables,532.8,45.8,Processing,61.1,24420044.0,26.1,10438252.0,"['BM-01', 'BM-03']"
+Ekiti,South West,Vegetables,532.8,45.8,Storage,85.5,34188062.0,56.7,22674831.0,"['BM-02', 'BM-05']"
+Ekiti,South West,Vegetables,532.8,45.8,Transportation,48.8,19536035.0,23.4,9371046.0,['BM-04']
+Ekiti,South West,Vegetables,532.8,45.8,Market,12.2,4884009.0,5.4,2143369.0,"['BM-02', 'BM-07']"
+Lagos,South West,Maize,832.0,33.3,Harvesting,41.5,9552075.0,27.4,6291362.0,"['BM-01', 'BM-06']"
+Lagos,South West,Maize,832.0,33.3,Processing,69.2,15920124.0,44.5,10234329.0,"['BM-01', 'BM-03']"
+Lagos,South West,Maize,832.0,33.3,Storage,96.9,22288174.0,57.8,13296514.0,"['BM-02', 'BM-05']"
+Lagos,South West,Maize,832.0,33.3,Transportation,55.4,12736100.0,31.3,7199172.0,['BM-04']
+Lagos,South West,Maize,832.0,33.3,Market,13.8,3184025.0,5.9,1356700.0,"['BM-02', 'BM-07']"
+Lagos,South West,Rice,346.8,34.1,Harvesting,17.7,11533789.0,8.5,5512299.0,"['BM-01', 'BM-06']"
+Lagos,South West,Rice,346.8,34.1,Processing,29.6,19222982.0,18.2,11861080.0,"['BM-01', 'BM-03']"
+Lagos,South West,Rice,346.8,34.1,Storage,41.4,26912175.0,22.7,14768398.0,"['BM-02', 'BM-05']"
+Lagos,South West,Rice,346.8,34.1,Transportation,23.7,15378386.0,10.0,6525262.0,['BM-04']
+Lagos,South West,Rice,346.8,34.1,Market,5.9,3844596.0,2.8,1791793.0,"['BM-02', 'BM-07']"
+Lagos,South West,Sorghum,161.0,23.6,Harvesting,5.7,1140468.0,3.7,747420.0,"['BM-01', 'BM-06']"
+Lagos,South West,Sorghum,161.0,23.6,Processing,9.5,1900780.0,5.2,1042662.0,"['BM-01', 'BM-03']"
+Lagos,South West,Sorghum,161.0,23.6,Storage,13.3,2661093.0,7.2,1448103.0,"['BM-02', 'BM-05']"
+Lagos,South West,Sorghum,161.0,23.6,Transportation,7.6,1520624.0,4.4,878499.0,['BM-04']
+Lagos,South West,Sorghum,161.0,23.6,Market,1.9,380156.0,1.2,246115.0,"['BM-02', 'BM-07']"
+Lagos,South West,Millet,84.5,23.2,Harvesting,2.9,529384.0,1.7,301600.0,"['BM-01', 'BM-06']"
+Lagos,South West,Millet,84.5,23.2,Processing,4.9,882306.0,2.4,423603.0,"['BM-01', 'BM-03']"
+Lagos,South West,Millet,84.5,23.2,Storage,6.9,1235228.0,4.6,819684.0,"['BM-02', 'BM-05']"
+Lagos,South West,Millet,84.5,23.2,Transportation,3.9,705845.0,2.5,451196.0,['BM-04']
+Lagos,South West,Millet,84.5,23.2,Market,1.0,176461.0,0.6,105442.0,"['BM-02', 'BM-07']"
+Lagos,South West,Vegetables,598.6,48.3,Harvesting,43.4,17350099.0,26.6,10627090.0,"['BM-01', 'BM-06']"
+Lagos,South West,Vegetables,598.6,48.3,Processing,72.3,28916831.0,47.1,18827865.0,"['BM-01', 'BM-03']"
+Lagos,South West,Vegetables,598.6,48.3,Storage,101.2,40483564.0,61.7,24664265.0,"['BM-02', 'BM-05']"
+Lagos,South West,Vegetables,598.6,48.3,Transportation,57.8,23133465.0,34.9,13973590.0,['BM-04']
+Lagos,South West,Vegetables,598.6,48.3,Market,14.5,5783366.0,8.5,3386643.0,"['BM-02', 'BM-07']"
+Ogun,South West,Maize,792.8,28.4,Harvesting,33.8,7772466.0,22.4,5162948.0,"['BM-01', 'BM-06']"
+Ogun,South West,Maize,792.8,28.4,Processing,56.3,12954110.0,37.3,8569831.0,"['BM-01', 'BM-03']"
+Ogun,South West,Maize,792.8,28.4,Storage,78.9,18135754.0,32.2,7413428.0,"['BM-02', 'BM-05']"
+Ogun,South West,Maize,792.8,28.4,Transportation,45.1,10363288.0,29.2,6712768.0,['BM-04']
+Ogun,South West,Maize,792.8,28.4,Market,11.3,2590822.0,4.9,1136492.0,"['BM-02', 'BM-07']"
+Ogun,South West,Rice,336.3,36.7,Harvesting,18.5,12033614.0,8.3,5393803.0,"['BM-01', 'BM-06']"
+Ogun,South West,Rice,336.3,36.7,Processing,30.9,20056024.0,19.9,12943960.0,"['BM-01', 'BM-03']"
+Ogun,South West,Rice,336.3,36.7,Storage,43.2,28078434.0,28.1,18240881.0,"['BM-02', 'BM-05']"
+Ogun,South West,Rice,336.3,36.7,Transportation,24.7,16044819.0,13.6,8860596.0,['BM-04']
+Ogun,South West,Rice,336.3,36.7,Market,6.2,4011205.0,2.5,1612166.0,"['BM-02', 'BM-07']"
+Ogun,South West,Sorghum,137.2,26.4,Harvesting,5.4,1086938.0,3.8,754722.0,"['BM-01', 'BM-06']"
+Ogun,South West,Sorghum,137.2,26.4,Processing,9.1,1811564.0,5.3,1067997.0,"['BM-01', 'BM-03']"
+Ogun,South West,Sorghum,137.2,26.4,Storage,12.7,2536189.0,6.1,1212149.0,"['BM-02', 'BM-05']"
+Ogun,South West,Sorghum,137.2,26.4,Transportation,7.2,1449251.0,4.3,855350.0,['BM-04']
+Ogun,South West,Sorghum,137.2,26.4,Market,1.8,362313.0,1.0,203618.0,"['BM-02', 'BM-07']"
+Ogun,South West,Millet,100.1,20.6,Harvesting,3.1,557675.0,1.9,350392.0,"['BM-01', 'BM-06']"
+Ogun,South West,Millet,100.1,20.6,Processing,5.2,929459.0,2.9,522709.0,"['BM-01', 'BM-03']"
+Ogun,South West,Millet,100.1,20.6,Storage,7.2,1301242.0,5.0,896423.0,"['BM-02', 'BM-05']"
+Ogun,South West,Millet,100.1,20.6,Transportation,4.1,743567.0,2.1,373688.0,['BM-04']
+Ogun,South West,Millet,100.1,20.6,Market,1.0,185892.0,0.6,109636.0,"['BM-02', 'BM-07']"
+Ogun,South West,Vegetables,615.7,41.4,Harvesting,38.3,15302976.0,26.1,10423906.0,"['BM-01', 'BM-06']"
+Ogun,South West,Vegetables,615.7,41.4,Processing,63.8,25504960.0,38.7,15465333.0,"['BM-01', 'BM-03']"
+Ogun,South West,Vegetables,615.7,41.4,Storage,89.3,35706944.0,37.5,15009454.0,"['BM-02', 'BM-05']"
+Ogun,South West,Vegetables,615.7,41.4,Transportation,51.0,20403968.0,25.0,10003843.0,['BM-04']
+Ogun,South West,Vegetables,615.7,41.4,Market,12.8,5100992.0,7.8,3124111.0,"['BM-02', 'BM-07']"
+Ondo,South West,Maize,595.4,31.0,Harvesting,27.7,6368025.0,13.9,3207988.0,"['BM-01', 'BM-06']"
+Ondo,South West,Maize,595.4,31.0,Processing,46.1,10613375.0,27.1,6222353.0,"['BM-01', 'BM-03']"
+Ondo,South West,Maize,595.4,31.0,Storage,64.6,14858726.0,26.7,6147391.0,"['BM-02', 'BM-05']"
+Ondo,South West,Maize,595.4,31.0,Transportation,36.9,8490700.0,24.4,5616268.0,['BM-04']
+Ondo,South West,Maize,595.4,31.0,Market,9.2,2122675.0,6.4,1468990.0,"['BM-02', 'BM-07']"
+Ondo,South West,Rice,427.5,36.7,Harvesting,23.6,15317503.0,10.3,6724780.0,"['BM-01', 'BM-06']"
+Ondo,South West,Rice,427.5,36.7,Processing,39.3,25529172.0,24.6,16019018.0,"['BM-01', 'BM-03']"
+Ondo,South West,Rice,427.5,36.7,Storage,55.0,35740841.0,22.4,14559963.0,"['BM-02', 'BM-05']"
+Ondo,South West,Rice,427.5,36.7,Transportation,31.4,20423338.0,12.8,8304886.0,['BM-04']
+Ondo,South West,Rice,427.5,36.7,Market,7.9,5105834.0,3.9,2538024.0,"['BM-02', 'BM-07']"
+Ondo,South West,Sorghum,149.3,27.2,Harvesting,6.1,1218229.0,3.7,737015.0,"['BM-01', 'BM-06']"
+Ondo,South West,Sorghum,149.3,27.2,Processing,10.2,2030382.0,5.4,1083759.0,"['BM-01', 'BM-03']"
+Ondo,South West,Sorghum,149.3,27.2,Storage,14.2,2842535.0,6.9,1370352.0,"['BM-02', 'BM-05']"
+Ondo,South West,Sorghum,149.3,27.2,Transportation,8.1,1624306.0,5.7,1135613.0,['BM-04']
+Ondo,South West,Sorghum,149.3,27.2,Market,2.0,406076.0,1.1,214349.0,"['BM-02', 'BM-07']"
+Ondo,South West,Millet,88.2,20.9,Harvesting,2.8,497828.0,1.8,317835.0,"['BM-01', 'BM-06']"
+Ondo,South West,Millet,88.2,20.9,Processing,4.6,829714.0,2.8,504553.0,"['BM-01', 'BM-03']"
+Ondo,South West,Millet,88.2,20.9,Storage,6.5,1161600.0,3.0,541574.0,"['BM-02', 'BM-05']"
+Ondo,South West,Millet,88.2,20.9,Transportation,3.7,663771.0,1.6,281913.0,['BM-04']
+Ondo,South West,Millet,88.2,20.9,Market,0.9,165943.0,0.6,100254.0,"['BM-02', 'BM-07']"
+Ondo,South West,Vegetables,557.4,43.0,Harvesting,35.9,14368541.0,24.6,9846173.0,"['BM-01', 'BM-06']"
+Ondo,South West,Vegetables,557.4,43.0,Processing,59.9,23947568.0,26.7,10664268.0,"['BM-01', 'BM-03']"
+Ondo,South West,Vegetables,557.4,43.0,Storage,83.8,33526595.0,44.4,17759052.0,"['BM-02', 'BM-05']"
+Ondo,South West,Vegetables,557.4,43.0,Transportation,47.9,19158054.0,32.7,13086575.0,['BM-04']
+Ondo,South West,Vegetables,557.4,43.0,Market,12.0,4789514.0,6.3,2518892.0,"['BM-02', 'BM-07']"
+Osun,South West,Maize,759.9,29.9,Harvesting,34.1,7832233.0,16.4,3777208.0,"['BM-01', 'BM-06']"
+Osun,South West,Maize,759.9,29.9,Processing,56.8,13053722.0,39.5,9074860.0,"['BM-01', 'BM-03']"
+Osun,South West,Maize,759.9,29.9,Storage,79.5,18275211.0,41.5,9554284.0,"['BM-02', 'BM-05']"
+Osun,South West,Maize,759.9,29.9,Transportation,45.4,10442977.0,30.3,6978308.0,['BM-04']
+Osun,South West,Maize,759.9,29.9,Market,11.4,2610744.0,5.3,1224404.0,"['BM-02', 'BM-07']"
+Osun,South West,Rice,318.7,31.7,Harvesting,15.2,9855395.0,9.0,5868888.0,"['BM-01', 'BM-06']"
+Osun,South West,Rice,318.7,31.7,Processing,25.3,16425658.0,12.9,8386249.0,"['BM-01', 'BM-03']"
+Osun,South West,Rice,318.7,31.7,Storage,35.4,22995921.0,23.3,15161383.0,"['BM-02', 'BM-05']"
+Osun,South West,Rice,318.7,31.7,Transportation,20.2,13140526.0,11.0,7121679.0,['BM-04']
+Osun,South West,Rice,318.7,31.7,Market,5.1,3285132.0,3.5,2268245.0,"['BM-02', 'BM-07']"
+Osun,South West,Sorghum,131.1,27.7,Harvesting,5.4,1089785.0,3.4,689811.0,"['BM-01', 'BM-06']"
+Osun,South West,Sorghum,131.1,27.7,Processing,9.1,1816309.0,5.7,1146593.0,"['BM-01', 'BM-03']"
+Osun,South West,Sorghum,131.1,27.7,Storage,12.7,2542833.0,8.3,1661576.0,"['BM-02', 'BM-05']"
+Osun,South West,Sorghum,131.1,27.7,Transportation,7.3,1453047.0,4.6,912960.0,['BM-04']
+Osun,South West,Sorghum,131.1,27.7,Market,1.8,363262.0,1.1,213549.0,"['BM-02', 'BM-07']"
+Osun,South West,Millet,76.7,20.3,Harvesting,2.3,420647.0,1.6,284464.0,"['BM-01', 'BM-06']"
+Osun,South West,Millet,76.7,20.3,Processing,3.9,701079.0,2.3,410128.0,"['BM-01', 'BM-03']"
+Osun,South West,Millet,76.7,20.3,Storage,5.5,981510.0,3.5,627147.0,"['BM-02', 'BM-05']"
+Osun,South West,Millet,76.7,20.3,Transportation,3.1,560863.0,1.7,305366.0,['BM-04']
+Osun,South West,Millet,76.7,20.3,Market,0.8,140216.0,0.3,61021.0,"['BM-02', 'BM-07']"
+Osun,South West,Vegetables,446.3,46.7,Harvesting,31.2,12497008.0,16.5,6612064.0,"['BM-01', 'BM-06']"
+Osun,South West,Vegetables,446.3,46.7,Processing,52.1,20828347.0,24.0,9584319.0,"['BM-01', 'BM-03']"
+Osun,South West,Vegetables,446.3,46.7,Storage,72.9,29159686.0,39.9,15964297.0,"['BM-02', 'BM-05']"
+Osun,South West,Vegetables,446.3,46.7,Transportation,41.7,16662678.0,17.5,6986039.0,['BM-04']
+Osun,South West,Vegetables,446.3,46.7,Market,10.4,4165669.0,6.0,2393558.0,"['BM-02', 'BM-07']"
+Oyo,South West,Maize,653.5,32.3,Harvesting,31.7,7285351.0,15.6,3592469.0,"['BM-01', 'BM-06']"
+Oyo,South West,Maize,653.5,32.3,Processing,52.8,12142251.0,28.3,6515120.0,"['BM-01', 'BM-03']"
+Oyo,South West,Maize,653.5,32.3,Storage,73.9,16999152.0,29.8,6858922.0,"['BM-02', 'BM-05']"
+Oyo,South West,Maize,653.5,32.3,Transportation,42.2,9713801.0,17.8,4096641.0,['BM-04']
+Oyo,South West,Maize,653.5,32.3,Market,10.6,2428450.0,5.5,1257325.0,"['BM-02', 'BM-07']"
+Oyo,South West,Rice,357.1,35.7,Harvesting,19.1,12430198.0,9.3,6059706.0,"['BM-01', 'BM-06']"
+Oyo,South West,Rice,357.1,35.7,Processing,31.9,20716997.0,19.4,12606180.0,"['BM-01', 'BM-03']"
+Oyo,South West,Rice,357.1,35.7,Storage,44.6,29003795.0,29.4,19085562.0,"['BM-02', 'BM-05']"
+Oyo,South West,Rice,357.1,35.7,Transportation,25.5,16573597.0,16.2,10506920.0,['BM-04']
+Oyo,South West,Rice,357.1,35.7,Market,6.4,4143399.0,2.6,1706607.0,"['BM-02', 'BM-07']"
+Oyo,South West,Sorghum,148.8,23.8,Harvesting,5.3,1060927.0,2.5,501409.0,"['BM-01', 'BM-06']"
+Oyo,South West,Sorghum,148.8,23.8,Processing,8.8,1768212.0,6.2,1230674.0,"['BM-01', 'BM-03']"
+Oyo,South West,Sorghum,148.8,23.8,Storage,12.4,2475497.0,5.5,1096023.0,"['BM-02', 'BM-05']"
+Oyo,South West,Sorghum,148.8,23.8,Transportation,7.1,1414570.0,3.9,777542.0,['BM-04']
+Oyo,South West,Sorghum,148.8,23.8,Market,1.8,353642.0,1.0,207039.0,"['BM-02', 'BM-07']"
+Oyo,South West,Millet,97.3,22.7,Harvesting,3.3,595422.0,1.3,239914.0,"['BM-01', 'BM-06']"
+Oyo,South West,Millet,97.3,22.7,Processing,5.5,992370.0,2.7,494139.0,"['BM-01', 'BM-03']"
+Oyo,South West,Millet,97.3,22.7,Storage,7.7,1389317.0,4.3,771507.0,"['BM-02', 'BM-05']"
+Oyo,South West,Millet,97.3,22.7,Transportation,4.4,793896.0,1.9,338485.0,['BM-04']
+Oyo,South West,Millet,97.3,22.7,Market,1.1,198474.0,0.6,100267.0,"['BM-02', 'BM-07']"
+Oyo,South West,Vegetables,427.0,41.2,Harvesting,26.4,10556610.0,13.7,5479693.0,"['BM-01', 'BM-06']"
+Oyo,South West,Vegetables,427.0,41.2,Processing,44.0,17594350.0,19.3,7738254.0,"['BM-01', 'BM-03']"
+Oyo,South West,Vegetables,427.0,41.2,Storage,61.6,24632090.0,35.1,14046751.0,"['BM-02', 'BM-05']"
+Oyo,South West,Vegetables,427.0,41.2,Transportation,35.2,14075480.0,21.4,8541557.0,['BM-04']
+Oyo,South West,Vegetables,427.0,41.2,Market,8.8,3518870.0,5.6,2252696.0,"['BM-02', 'BM-07']"

@@ -1,0 +1,30 @@
+{
+    "title": "Post-Harvest Business Model Comparison Tool",
+    "description": "This tool helps you compare different youth-appropriate business models in the post-harvest sector to identify which options best match your circumstances, resources, and goals.",
+    "models": [
+        {
+            "model_id": "BM-01",
+            "model_name": "Mobile Threshing/Shelling Service",
+            "investment_range": "N955,000 - N1,625,000",
+            "technical_difficulty": "Medium",
+            "roi": "15-30% annually",
+            "seasonality": "High (seasonal operation)"
+        },
+        {
+            "model_id": "BM-02",
+            "model_name": "Aggregation & Quality Control Hub",
+            "investment_range": "N1,785,000 - N4,020,000",
+            "technical_difficulty": "Medium-Low",
+            "roi": "20-30% annually",
+            "seasonality": "Medium (can operate year-round with crop diversity)"
+        },
+        {
+            "model_id": "BM-03",
+            "model_name": "Solar Drying as a Service",
+            "investment_range": "N720,000 - N2,080,000",
+            "technical_difficulty": "Low",
+            "roi": "40-60% annually",
+            "seasonality": "Medium-High (dependent on weather and harvest seasons)"
+        }
+    ]
+}

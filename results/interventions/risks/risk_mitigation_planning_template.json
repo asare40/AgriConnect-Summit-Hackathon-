@@ -1,0 +1,138 @@
+{
+    "business_model": "",
+    "location": "",
+    "risk_assessment": {
+        "instructions": "Rate each risk from 1 (low) to 5 (high) for both likelihood and impact in your specific context",
+        "implementation_risks": [
+            {
+                "risk": "Technology Adoption Resistance",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            },
+            {
+                "risk": "Infrastructure Limitations",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            },
+            {
+                "risk": "Technical Skills Gap",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            }
+        ],
+        "financial_risks": [
+            {
+                "risk": "Limited Access to Startup Capital",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            },
+            {
+                "risk": "Irregular Cash Flow",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            },
+            {
+                "risk": "Rising Operating Costs",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            }
+        ],
+        "market_risks": [
+            {
+                "risk": "Price Volatility",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            },
+            {
+                "risk": "Limited Market Access",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            },
+            {
+                "risk": "Competition from Established Players",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            }
+        ],
+        "environmental_risks": [
+            {
+                "risk": "Extreme Weather Events",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            },
+            {
+                "risk": "Pest and Disease Outbreaks",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            },
+            {
+                "risk": "Resource Constraints",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            }
+        ],
+        "social_risks": [
+            {
+                "risk": "Gender Barriers",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            },
+            {
+                "risk": "Youth Migration",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            },
+            {
+                "risk": "Collective Action Challenges",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            }
+        ],
+        "policy_risks": [
+            {
+                "risk": "Policy Inconsistency",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            },
+            {
+                "risk": "Regulatory Compliance Challenges",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            },
+            {
+                "risk": "Land Tenure Insecurity",
+                "likelihood": 0,
+                "impact": 0,
+                "mitigation_plan": ""
+            }
+        ]
+    },
+    "risk_monitoring_plan": {
+        "monitoring_frequency": "",
+        "key_indicators_to_track": [],
+        "trigger_points_for_action": [],
+        "responsible_person": ""
+    },
+    "contingency_planning": {
+        "emergency_response_procedures": "",
+        "backup_systems_and_processes": "",
+        "alternative_business_strategies": ""
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "project_name": "Nigeria Post-Harvest Losses Analysis",
+    "primary_focus": "Post-Harvest Losses",
+    "secondary_focus": "Agricultural Finance",
+    "start_date": "2025-05-11",
+    "datasets": {
+        "post_harvest_losses": "data/cleaned/post_harvest_losses_cleaned.csv",
+        "value_chain": "data/cleaned/value_chain_cleaned.csv",
+        "financial_impact": "data/cleaned/financial_impact_cleaned.csv",
+        "nutrient_losses": "data/cleaned/nutrient_losses_cleaned.csv",
+        "climate_data": "data/cleaned/climate_data_cleaned.csv"
+    }
+}

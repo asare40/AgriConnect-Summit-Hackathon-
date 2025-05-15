@@ -1,0 +1,27 @@
+{
+  "title": "Nigeria Post-Harvest Losses Intervention Project: Executive Summary",
+  "prepared_by": "Data Science Team",
+  "date": "2025-05-12 16:50:48",
+  "summary": "\n    This project analyzes post-harvest losses across Nigeria's major grain crops (Maize, Rice, Sorghum, and Millet) \n    and develops targeted intervention strategies to reduce these losses. Analysis of production data across \n    36 Nigerian states and the FCT, combined with literature-based loss rates, identified critical loss points\n    in the value chain and regional patterns. Based on this analysis, we've developed a comprehensive intervention\n    framework that includes technical solutions, regional targeting, economic analysis, risk management, and\n    stakeholder engagement strategies. Implementation of these recommendations could reduce post-harvest \n    losses by 15-20% within two years, potentially saving \u20a62-3 billion annually.\n    ",
+  "key_findings": [
+    "Rice experiences the highest loss rates (35%), followed by Maize (30.5%), Sorghum (25.8%), and Millet (22.4%)",
+    "Storage (35%) and processing (25%) represent the highest proportion of losses across the value chain",
+    "Northern states show higher loss volumes despite higher production, while Southern states show better efficiency",
+    "Total financial losses exceed \u20a614 billion annually across the four main grain crops",
+    "Regional factors significantly influence loss rates, with the North East experiencing 25% higher losses"
+  ],
+  "intervention_highlights": [
+    "Six categories of interventions designed with crop-specific applications",
+    "Hermetic storage bags, training programs, and solar dryers show highest ROI (189-289%)",
+    "North West zone shows highest potential impact for scaled interventions",
+    "Pay-as-you-go and service-based models recommended for overcoming financial barriers",
+    "Community-based implementation approach with strong stakeholder coordination recommended"
+  ],
+  "next_steps": [
+    "Stakeholder validation of intervention recommendations",
+    "Development of detailed implementation plans for priority regions",
+    "Securing implementation funding and partnerships",
+    "Establishing robust monitoring and evaluation framework",
+    "Launching pilot programs in priority states"
+  ]
+}

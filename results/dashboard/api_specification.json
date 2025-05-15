@@ -1,0 +1,289 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "YouthHarvest Dashboard API",
+        "description": "API for accessing PHL data and business opportunities for youth entrepreneurs",
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "https://api.youthharvest.example/v1",
+            "description": "Production server"
+        }
+    ],
+    "paths": {
+        "/states": {
+            "get": {
+                "summary": "Get PHL data by state",
+                "parameters": [
+                    {
+                        "name": "zone",
+                        "in": "query",
+                        "description": "Filter by geopolitical zone",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "crop",
+                        "in": "query",
+                        "description": "Filter by crop type",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "state": {
+                                                "type": "string"
+                                            },
+                                            "production_tons": {
+                                                "type": "number"
+                                            },
+                                            "loss_tons": {
+                                                "type": "number"
+                                            },
+                                            "financial_impact": {
+                                                "type": "number"
+                                            },
+                                            "intervention_value": {
+                                                "type": "number"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/crops": {
+            "get": {
+                "summary": "Get PHL data by crop",
+                "parameters": [
+                    {
+                        "name": "state",
+                        "in": "query",
+                        "description": "Filter by state",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "zone",
+                        "in": "query",
+                        "description": "Filter by geopolitical zone",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "crop": {
+                                                "type": "string"
+                                            },
+                                            "production_tons": {
+                                                "type": "number"
+                                            },
+                                            "loss_tons": {
+                                                "type": "number"
+                                            },
+                                            "financial_impact": {
+                                                "type": "number"
+                                            },
+                                            "intervention_value": {
+                                                "type": "number"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/value-chain": {
+            "get": {
+                "summary": "Get PHL data by value chain stage",
+                "parameters": [
+                    {
+                        "name": "state",
+                        "in": "query",
+                        "description": "Filter by state",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "crop",
+                        "in": "query",
+                        "description": "Filter by crop",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "value_chain_stage": {
+                                                "type": "string"
+                                            },
+                                            "loss_tons": {
+                                                "type": "number"
+                                            },
+                                            "financial_impact": {
+                                                "type": "number"
+                                            },
+                                            "intervention_value": {
+                                                "type": "number"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/business-opportunities": {
+            "get": {
+                "summary": "Get business opportunities for youth entrepreneurs",
+                "parameters": [
+                    {
+                        "name": "state",
+                        "in": "query",
+                        "description": "Filter by state",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "zone",
+                        "in": "query",
+                        "description": "Filter by geopolitical zone",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "maxInvestment",
+                        "in": "query",
+                        "description": "Maximum investment amount",
+                        "schema": {
+                            "type": "number"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "type": "object",
+                                        "properties": {
+                                            "model_id": {
+                                                "type": "string"
+                                            },
+                                            "model_name": {
+                                                "type": "string"
+                                            },
+                                            "opportunity_value": {
+                                                "type": "number"
+                                            },
+                                            "investment_range": {
+                                                "type": "string"
+                                            },
+                                            "roi": {
+                                                "type": "string"
+                                            },
+                                            "impact": {
+                                                "type": "string"
+                                            },
+                                            "top_crops": {
+                                                "type": "string"
+                                            },
+                                            "top_stages": {
+                                                "type": "string"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/implementation-guides/{modelId}": {
+            "get": {
+                "summary": "Get implementation guide for a specific business model",
+                "parameters": [
+                    {
+                        "name": "modelId",
+                        "in": "path",
+                        "required": true,
+                        "description": "Business model ID (e.g., BM-01)",
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "model_id": {
+                                            "type": "string"
+                                        },
+                                        "model_name": {
+                                            "type": "string"
+                                        },
+                                        "description": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

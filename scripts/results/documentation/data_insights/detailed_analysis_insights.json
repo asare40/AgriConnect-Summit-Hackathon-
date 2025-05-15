@@ -1,0 +1,128 @@
+{
+  "title": "Nigeria Post-Harvest Losses: Detailed Data Insights",
+  "prepared_by": "Data Analysis Team",
+  "date": "2025-05-12 16:50:48",
+  "key_metrics": {
+    "total_production_analyzed": "13,857,870 tons across four main grain crops",
+    "estimated_total_losses": "3,940,992 tons annually",
+    "financial_impact": "\u20a614.2 billion estimated annual loss",
+    "highest_loss_crop": "Rice (35% loss rate)",
+    "highest_loss_state": "Kano (618,600 tons of production with 26% average loss)",
+    "most_critical_stage": "Storage (35% of total losses)"
+  },
+  "regional_analysis": {
+    "North Central": {
+      "avg_loss_rate": "Base rate + 5%",
+      "key_challenges": "Limited storage infrastructure, poor market access",
+      "priority_crops": [
+        "Rice",
+        "Maize"
+      ],
+      "recommended_focus": "Community storage facilities, market linkages"
+    },
+    "North East": {
+      "avg_loss_rate": "Base rate + 25%",
+      "key_challenges": "Security concerns, climate variability, limited extension",
+      "priority_crops": [
+        "Maize",
+        "Sorghum",
+        "Millet"
+      ],
+      "recommended_focus": "Household storage solutions, climate-smart technologies"
+    },
+    "North West": {
+      "avg_loss_rate": "Base rate + 15%",
+      "key_challenges": "Large volumes, inadequate infrastructure, aflatoxin",
+      "priority_crops": [
+        "Maize",
+        "Rice",
+        "Sorghum"
+      ],
+      "recommended_focus": "Commercial-scale storage, aflatoxin mitigation"
+    },
+    "South East": {
+      "avg_loss_rate": "Base rate - 10%",
+      "key_challenges": "Land fragmentation, high humidity, processing limitations",
+      "priority_crops": [
+        "Rice",
+        "Maize"
+      ],
+      "recommended_focus": "Processing technologies, cooperative approaches"
+    },
+    "South South": {
+      "avg_loss_rate": "Base rate + 10%",
+      "key_challenges": "High humidity, poor transportation, limited infrastructure",
+      "priority_crops": [
+        "Rice",
+        "Maize"
+      ],
+      "recommended_focus": "Moisture control solutions, transportation improvements"
+    },
+    "South West": {
+      "avg_loss_rate": "Base rate - 15%",
+      "key_challenges": "Urban encroachment, labor costs, import competition",
+      "priority_crops": [
+        "Maize",
+        "Rice"
+      ],
+      "recommended_focus": "Mechanization, value addition, quality certification"
+    }
+  },
+  "value_chain_analysis": {
+    "harvesting_losses": {
+      "percentage": "15% of total losses",
+      "key_issues": "Late harvesting, inappropriate methods, mechanical damage",
+      "priority_interventions": [
+        "Training on optimal harvest timing",
+        "Improved harvesting tools",
+        "Labor scheduling"
+      ]
+    },
+    "processing_losses": {
+      "percentage": "25% of total losses",
+      "key_issues": "Inappropriate equipment, poor operator skills, inefficient methods",
+      "priority_interventions": [
+        "Improved threshers and shellers",
+        "Miller training",
+        "Equipment maintenance"
+      ]
+    },
+    "storage_losses": {
+      "percentage": "35% of total losses",
+      "key_issues": "Insects, rodents, molds, moisture damage",
+      "priority_interventions": [
+        "Hermetic bags",
+        "Metal silos",
+        "Proper drying techniques"
+      ]
+    },
+    "transportation_losses": {
+      "percentage": "20% of total losses",
+      "key_issues": "Poor roads, inadequate packaging, spillage",
+      "priority_interventions": [
+        "Standardized crates",
+        "Improved packaging",
+        "Logistics coordination"
+      ]
+    },
+    "market_losses": {
+      "percentage": "5% of total losses",
+      "key_issues": "Long storage at markets, poor displays, handling damage",
+      "priority_interventions": [
+        "Improved market facilities",
+        "Just-in-time supply chains",
+        "Market information systems"
+      ]
+    }
+  },
+  "seasonal_patterns": {
+    "highest_loss_periods": [
+      "Oct-Nov for Maize",
+      "Dec-Jan for Rice",
+      "Nov-Dec for Sorghum",
+      "Oct-Nov for Millet"
+    ],
+    "climate_factors": "Higher humidity during harvest seasons in southern regions leads to 15-20% higher drying-related losses",
+    "recommendations": "Time interventions to coincide with peak loss periods, with emphasis on October-January across most regions"
+  }
+}

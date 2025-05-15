@@ -1,0 +1,202 @@
+{
+  "title": "Technical Intervention Specifications for Post-Harvest Loss Reduction",
+  "prepared_by": "Agricultural Engineering Team",
+  "date": "2025-05-12 16:50:48",
+  "storage_solutions": {
+    "hermetic_bags": {
+      "description": "Multi-layer plastic bags creating airtight seal to prevent insect infestation",
+      "capacity_options": [
+        "50kg",
+        "100kg",
+        "500kg (super bags)"
+      ],
+      "expected_lifespan": "2-3 seasons with proper handling",
+      "effectiveness": "Reduces storage losses by 70-85%",
+      "cost_range": "\u20a62,500-10,000 depending on size",
+      "best_suited_for": [
+        "Smallholder farmers",
+        "Small aggregators"
+      ],
+      "limitations": [
+        "Requires careful handling to avoid punctures",
+        "Limited capacity for commercial storage"
+      ]
+    },
+    "metal_silos": {
+      "description": "Cylindrical metal containers providing airtight, rodent-proof storage",
+      "capacity_options": [
+        "500kg",
+        "1 ton",
+        "3 tons",
+        "5 tons"
+      ],
+      "expected_lifespan": "10-15 years with maintenance",
+      "effectiveness": "Reduces storage losses by 85-95%",
+      "cost_range": "\u20a685,000-500,000 depending on size",
+      "best_suited_for": [
+        "Farmer groups",
+        "Commercial aggregators",
+        "Community storage"
+      ],
+      "limitations": [
+        "High upfront cost",
+        "Requires proper foundation",
+        "Difficult to relocate"
+      ]
+    },
+    "improved_traditional_storage": {
+      "description": "Enhanced versions of traditional storage structures with modern materials",
+      "capacity_options": [
+        "Varies by design (typically 200-2,000kg)"
+      ],
+      "expected_lifespan": "3-5 years with maintenance",
+      "effectiveness": "Reduces storage losses by 40-60%",
+      "cost_range": "\u20a615,000-80,000 depending on design and size",
+      "best_suited_for": [
+        "Rural communities with strong traditional preferences"
+      ],
+      "limitations": [
+        "Moderate effectiveness compared to other options",
+        "Requires regular maintenance"
+      ]
+    }
+  },
+  "drying_technologies": {
+    "solar_dryers": {
+      "description": "Structures using solar radiation for efficient crop drying",
+      "types": [
+        "Direct solar dryers",
+        "Indirect solar dryers",
+        "Mixed-mode dryers"
+      ],
+      "capacity_options": [
+        "100kg",
+        "250kg",
+        "500kg",
+        "1 ton"
+      ],
+      "effectiveness": "Reduces moisture content to 12-13% within 1-3 days",
+      "cost_range": "\u20a645,000-650,000 depending on type and capacity",
+      "best_suited_for": [
+        "Individual farmers",
+        "Farmer groups",
+        "Rural processors"
+      ],
+      "limitations": [
+        "Weather dependent",
+        "Requires regular turning of product"
+      ]
+    },
+    "mechanical_dryers": {
+      "description": "Engine or electric-powered dryers for rapid moisture reduction",
+      "types": [
+        "Flat-bed dryers",
+        "Recirculating batch dryers",
+        "Continuous flow dryers"
+      ],
+      "capacity_options": [
+        "500kg",
+        "1 ton",
+        "5 tons",
+        "10 tons"
+      ],
+      "effectiveness": "Reduces moisture content to 12-13% within hours",
+      "cost_range": "\u20a6350,000-5,000,000 depending on size and type",
+      "best_suited_for": [
+        "Medium to large processors",
+        "Commercial operations"
+      ],
+      "limitations": [
+        "High initial cost",
+        "Requires fuel/electricity",
+        "Technical maintenance"
+      ]
+    }
+  },
+  "processing_equipment": {
+    "threshers_shellers": {
+      "description": "Mechanical devices to separate grain from cobs, heads, or panicles",
+      "types": [
+        "Maize shellers",
+        "Multi-crop threshers",
+        "Pedal-operated threshers",
+        "Motorized threshers"
+      ],
+      "capacity_range": [
+        "100-200kg/hr (manual)",
+        "500-2,000kg/hr (motorized)"
+      ],
+      "effectiveness": "Reduces threshing losses by 50-75%",
+      "cost_range": "\u20a645,000-1,200,000 depending on type and capacity",
+      "best_suited_for": [
+        "Individual farmers",
+        "Service providers",
+        "Farmer groups"
+      ],
+      "limitations": [
+        "Maintenance requirements",
+        "Fuel costs for motorized versions"
+      ]
+    },
+    "mini_rice_mills": {
+      "description": "Compact rice processing units for rural communities",
+      "components": [
+        "De-stoner",
+        "Husker",
+        "Polisher",
+        "Grader"
+      ],
+      "capacity_range": [
+        "200-500kg/hr"
+      ],
+      "effectiveness": "Reduces milling losses by 10-15%, improves quality significantly",
+      "cost_range": "\u20a6850,000-3,500,000 depending on components and capacity",
+      "best_suited_for": [
+        "Entrepreneur service providers",
+        "Farmer cooperatives"
+      ],
+      "limitations": [
+        "Technical operation skills needed",
+        "Regular maintenance required"
+      ]
+    }
+  },
+  "handling_transportation": {
+    "standardized_crates": {
+      "description": "Durable plastic crates for harvest and transport",
+      "capacity_options": [
+        "20kg",
+        "25kg",
+        "40kg"
+      ],
+      "expected_lifespan": "3-5 years with proper handling",
+      "effectiveness": "Reduces handling losses by 30-60%",
+      "cost_range": "\u20a63,000-6,000 per crate",
+      "best_suited_for": [
+        "All value chain actors"
+      ],
+      "limitations": [
+        "Initial cost barrier",
+        "Potential theft if not marked"
+      ]
+    },
+    "moisture_meters": {
+      "description": "Devices to accurately measure grain moisture content",
+      "types": [
+        "Digital meters",
+        "Analog meters"
+      ],
+      "accuracy": "\u00b10.5% moisture content",
+      "cost_range": "\u20a615,000-60,000",
+      "best_suited_for": [
+        "Aggregators",
+        "Storage managers",
+        "Quality control points"
+      ],
+      "limitations": [
+        "Requires calibration",
+        "Different calibrations for different crops"
+      ]
+    }
+  }
+}

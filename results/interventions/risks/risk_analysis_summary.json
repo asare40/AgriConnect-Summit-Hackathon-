@@ -1,0 +1,25 @@
+{
+    "title": "Risk Analysis Summary for Post-Harvest Loss Interventions",
+    "key_findings": [
+        "Most critical risks facing youth post-harvest businesses include technology adoption resistance, limited access to capital, and price volatility",
+        "Financial risks represent the highest barrier to youth entrepreneurship in the post-harvest sector",
+        "Diversification (crop types, services, markets) is the most effective cross-cutting risk mitigation strategy",
+        "Digital solutions offer significant risk reduction potential, particularly for market and information-related risks",
+        "Collective action and partnership models effectively reduce individual exposure to capital-intensive risks"
+    ],
+    "risk_category_insights": {
+        "Implementation Risks": "Technical skills gaps and infrastructure limitations require integrated capacity building approaches",
+        "Financial Risks": "Innovative financing models and phased investment approaches can overcome capital constraints",
+        "Market Risks": "Digital market linkages and quality differentiation strategies offer protection against volatility",
+        "Environmental Risks": "Climate-resilient designs and early warning systems are increasingly essential",
+        "Social Risks": "Gender-sensitive approaches and youth engagement strategies address key social barriers",
+        "Policy Risks": "Diversified market channels reduce exposure to policy inconsistency"
+    },
+    "recommendations": [
+        "Integrate risk assessment into business model development from the earliest stages",
+        "Design youth business models with phased investment requirements to manage financial risks",
+        "Build climate resilience features into all post-harvest technologies and practices",
+        "Develop youth peer support networks to share risk management knowledge and resources",
+        "Create bundled service offerings to diversify revenue streams and reduce seasonal variability"
+    ]
+}
