@@ -1,0 +1,72 @@
+{
+    "title": "YouthHarvest: Final Project Submission",
+    "date": "2025-05-12",
+    "team": "Nigeria Post-Harvest Losses Analysis Team",
+    "hackathon_challenge": "Reducing Post-Harvest Losses to Create Youth-Led Agribusinesses",
+    "solution_name": "YouthHarvest",
+    "solution_tagline": "Transforming Post-Harvest Losses into Youth Opportunities",
+    "executive_summary": "YouthHarvest is a comprehensive data-driven solution that addresses Nigeria's post-harvest loss challenge while creating sustainable entrepreneurship opportunities for youth. Through targeted analysis of loss patterns across crops, regions, and value chain stages, we've developed practical business models and implementation strategies that enable young agripreneurs to establish viable businesses addressing specific post-harvest challenges.",
+    "key_deliverables": [
+        {
+            "deliverable": "Post-Harvest Loss Analysis Framework",
+            "location": "data/analysis/",
+            "description": "Comprehensive analysis of post-harvest losses by crop, region, and value chain stage",
+            "format": "Data files, visualization outputs, and analytical documentation"
+        },
+        {
+            "deliverable": "Youth Business Model Implementation Guides",
+            "location": "results/youth_opportunities/implementation_guides/",
+            "description": "Detailed business models tailored for youth entrepreneurs in the post-harvest sector",
+            "format": "JSON files with comprehensive business details and implementation steps"
+        },
+        {
+            "deliverable": "Interactive PHL Dashboard",
+            "location": "results/dashboard/interactive/",
+            "description": "Tool for visualizing loss patterns and identifying business opportunities",
+            "format": "HTML/JavaScript interactive application with supporting data files"
+        },
+        {
+            "deliverable": "Regional Implementation Roadmaps",
+            "location": "results/interventions/regional/",
+            "description": "Tailored strategies for each geopolitical zone accounting for regional differences",
+            "format": "JSON files with structured implementation guidance"
+        },
+        {
+            "deliverable": "Risk Management Framework",
+            "location": "results/interventions/risks/",
+            "description": "Comprehensive risk analysis and mitigation strategies for post-harvest interventions",
+            "format": "Risk register, visualization tools, and management guides"
+        }
+    ],
+    "key_innovations": [
+        {
+            "innovation": "Data-Driven Business Model Targeting",
+            "description": "Integration of loss pattern data with business model selection, enabling youth to identify the most impactful and viable opportunities in their specific context"
+        },
+        {
+            "innovation": "Regionally Adaptive Implementation Approach",
+            "description": "Tailored strategies accounting for Nigeria's diverse agricultural, economic, and security contexts across regions, ensuring contextual relevance"
+        },
+        {
+            "innovation": "Digital-Physical Hybrid Services",
+            "description": "Business models that combine digital tools with physical services, creating opportunities at different investment and skill levels"
+        },
+        {
+            "innovation": "Risk-Calibrated Youth Enterprise Development",
+            "description": "Business models with explicit risk management strategies appropriate for youth with limited risk tolerance and capital"
+        }
+    ],
+    "impact_summary": {
+        "post_harvest_loss_reduction": "15-20% reduction in targeted value chains, representing 1.5-2 million tons annually",
+        "economic_value": "N4-6 billion in annual value preserved through reduced losses",
+        "youth_enterprises": "5,000-7,000 youth-led businesses across all business models",
+        "job_creation": "15,000-25,000 direct jobs and 50,000-80,000 indirect jobs",
+        "farmer_benefit": "10-15% increased income through better price realization and reduced losses"
+    },
+    "implementation_requirements": {
+        "timeline": "Three-year phased implementation across Nigeria's geopolitical zones",
+        "partnerships": "Multi-stakeholder approach involving government, private sector, financial institutions, and youth organizations",
+        "funding": "N3-4.3 billion total program budget for nationwide implementation"
+    },
+    "team_statement": "Our team combined expertise in agricultural data analysis, post-harvest technology, youth entrepreneurship, and regional development to create YouthHarvest. We approached the challenge with a focus on practical, market-driven solutions that can create sustainable impact while empowering Nigerian youth."
+}
